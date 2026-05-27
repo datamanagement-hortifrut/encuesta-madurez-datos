@@ -1,0 +1,3942 @@
+[
+  {
+    "id": "P0201",
+    "dimension": "Paso 2 de 23 - Principios y visión de Gobierno",
+    "dimension_short": "Principios y visión de Gobierno",
+    "pilar": "Gestión y Gobierno del Dato > Principios y visión de Gobierno",
+    "descripcion": "Directrices y framework para hacer efectivo el gobierno en toda la organización.",
+    "pregunta": "¿Está la Estrategia de Datos incorporada transversalmente en el día a día de Hortifrut?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R020101",
+        "texto": "Cada responsable cumple sus funciones en el marco de la estrategia a través de canales de comunicación ágiles"
+      },
+      {
+        "id": "R020102",
+        "texto": "Estrategia ampliamente implantada y aceptada por las áreas, con algunos silos aún por involucrar"
+      },
+      {
+        "id": "R020103",
+        "texto": "Estrategia implantada, con roles distribuidos por la organización, pero escasa asunción de responsabilidades"
+      },
+      {
+        "id": "R020104",
+        "texto": "Existe una estrategia, residente en IT, sin penetración en los negocios"
+      },
+      {
+        "id": "R020105",
+        "texto": "No existe"
+      }
+    ]
+  },
+  {
+    "id": "P0202",
+    "dimension": "Paso 2 de 23 - Principios y visión de Gobierno",
+    "dimension_short": "Principios y visión de Gobierno",
+    "pilar": "Gestión y Gobierno del Dato > Principios y visión de Gobierno",
+    "descripcion": "Directrices y framework para hacer efectivo el gobierno en toda la organización.",
+    "pregunta": "¿Contamos con una estrategia de datos explícita?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R020201",
+        "texto": "Aprobada por Alta Dirección con sistema de seguimiento centralizado de su cumplimiento"
+      },
+      {
+        "id": "R020202",
+        "texto": "Aprobado por la Alta Dirección pero no existe un seguimiento periódico del grado de cumplimiento"
+      },
+      {
+        "id": "R020203",
+        "texto": "Existe roles/responsabilidades general para la mayoría de ámbitos, aceptado explícitamente por ellos"
+      },
+      {
+        "id": "R020204",
+        "texto": "Existe una descripción de roles y responsabilidades general, si bien tan solo es explícita en algunos ámbitos"
+      },
+      {
+        "id": "R020205",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P0203",
+    "dimension": "Paso 2 de 23 - Principios y visión de Gobierno",
+    "dimension_short": "Principios y visión de Gobierno",
+    "pilar": "Gestión y Gobierno del Dato > Principios y visión de Gobierno",
+    "descripcion": "Directrices y framework para hacer efectivo el gobierno en toda la organización.",
+    "pregunta": "¿Cuál es el foco principal la estrategia de Datos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R020301",
+        "texto": "Foco en la estrategia del dato dentro de la estrategia global de la compañía"
+      },
+      {
+        "id": "R020302",
+        "texto": "Foco en la generación de valor a través del uso de los datos, pero no generalizado a toda la compañía"
+      },
+      {
+        "id": "R020303",
+        "texto": "Foco en la reusabilidad y la democratización"
+      },
+      {
+        "id": "R020304",
+        "texto": "Foco en gobernanza del dato:ownership, responsabilidades, solución de problemas de calidad del dato, descuadres..."
+      },
+      {
+        "id": "R020305",
+        "texto": "No existe la función de gobierno del dato"
+      }
+    ]
+  },
+  {
+    "id": "P0204",
+    "dimension": "Paso 2 de 23 - Principios y visión de Gobierno",
+    "dimension_short": "Principios y visión de Gobierno",
+    "pilar": "Gestión y Gobierno del Dato > Principios y visión de Gobierno",
+    "descripcion": "Directrices y framework para hacer efectivo el gobierno en toda la organización.",
+    "pregunta": "¿Cuál es el grado de involucramiento en la estrategia de datos de la primera linea de HF?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R020401",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R020402",
+        "texto": "Alto"
+      },
+      {
+        "id": "R020403",
+        "texto": "Medio"
+      },
+      {
+        "id": "R020404",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R020405",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P0205",
+    "dimension": "Paso 2 de 23 - Principios y visión de Gobierno",
+    "dimension_short": "Principios y visión de Gobierno",
+    "pilar": "Gestión y Gobierno del Dato > Principios y visión de Gobierno",
+    "descripcion": "Directrices y framework para hacer efectivo el gobierno en toda la organización.",
+    "pregunta": "¿Qué grado de conocimiento tienes de la estrategia de Datos en HF?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R020501",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R020502",
+        "texto": "Alto"
+      },
+      {
+        "id": "R020503",
+        "texto": "Medio"
+      },
+      {
+        "id": "R020504",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R020505",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P0301",
+    "dimension": "Paso 3 de 23 - Diccionario, glosario y metadatos",
+    "dimension_short": "Diccionario, glosario y metadatos",
+    "pilar": "Gestión y Gobierno del Dato > Diccionario, glosario y metadatos",
+    "descripcion": "Activos habilitadores del gobierno y de la eficiencia en procesos de gestión de datos, consultados y actualizados por negocio.",
+    "pregunta": "¿Contamos con un diccionario de términos o glosario de negocio de los datos de HF?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R030101",
+        "texto": "Sí, dando cobertura a la práctica totalidad de los términos de negocio"
+      },
+      {
+        "id": "R030102",
+        "texto": "Sí, dando cobertura entre un 50% y un 75% de los términos de negocio"
+      },
+      {
+        "id": "R030103",
+        "texto": "Sí, dando cobertura entre un 25% y un 50% de los términos de negocio"
+      },
+      {
+        "id": "R030104",
+        "texto": "Sí, dando cobertura a menos de un 25% de los términos de negocio"
+      },
+      {
+        "id": "R030105",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P0302",
+    "dimension": "Paso 3 de 23 - Diccionario, glosario y metadatos",
+    "dimension_short": "Diccionario, glosario y metadatos",
+    "pilar": "Gestión y Gobierno del Dato > Diccionario, glosario y metadatos",
+    "descripcion": "Activos habilitadores del gobierno y de la eficiencia en procesos de gestión de datos, consultados y actualizados por negocio.",
+    "pregunta": "¿Contamos con una herramienta de glosario de términos de los datos de HF?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R030201",
+        "texto": "Sí, implantada a nivel de todos los negocios y de uso ampliamente extendido en la organización"
+      },
+      {
+        "id": "R030202",
+        "texto": "Sí, incluyendo términos de negocio y con un uso parcial en la organización"
+      },
+      {
+        "id": "R030203",
+        "texto": "Sí, incluyendo términos de negocio pero no usada por los negocios"
+      },
+      {
+        "id": "R030204",
+        "texto": "Sí, pero exclusivamente técnica para usuarios IT"
+      },
+      {
+        "id": "R030205",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P0303",
+    "dimension": "Paso 3 de 23 - Diccionario, glosario y metadatos",
+    "dimension_short": "Diccionario, glosario y metadatos",
+    "pilar": "Gestión y Gobierno del Dato > Diccionario, glosario y metadatos",
+    "descripcion": "Activos habilitadores del gobierno y de la eficiencia en procesos de gestión de datos, consultados y actualizados por negocio.",
+    "pregunta": "¿Cuál es el nivel de utilización por los negocios del glosario de términos de los datos de HF?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R030301",
+        "texto": "Se conoce de forma masiva y es primer punto de contacto para la consulta y gestión de los conceptos de negocio"
+      },
+      {
+        "id": "R030302",
+        "texto": "Se utiliza principalmente por los Data Owners para el alta de nuevos términos y mantenimiento del glosario"
+      },
+      {
+        "id": "R030303",
+        "texto": "Se utiliza en reactivo, a petición del Responsable de Datos, para la gestión de algún proceso de alta/baja/modificación de términos"
+      },
+      {
+        "id": "R030304",
+        "texto": "Existe, pero mayoritariamente no se conoce que hay un glosario de términos"
+      },
+      {
+        "id": "R030305",
+        "texto": "No existe glosario de términos"
+      }
+    ]
+  },
+  {
+    "id": "P0304",
+    "dimension": "Paso 3 de 23 - Diccionario, glosario y metadatos",
+    "dimension_short": "Diccionario, glosario y metadatos",
+    "pilar": "Gestión y Gobierno del Dato > Diccionario, glosario y metadatos",
+    "descripcion": "Activos habilitadores del gobierno y de la eficiencia en procesos de gestión de datos, consultados y actualizados por negocio.",
+    "pregunta": "¿Contamos con un Catálogo de Datos?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R030401",
+        "texto": "Existe un modelo único que da cobertura a la totalidad de los términos de negocio"
+      },
+      {
+        "id": "R030402",
+        "texto": "Existe un modelo de datos que da cobertura a más del 75% de los términos de negocio"
+      },
+      {
+        "id": "R030403",
+        "texto": "Existe un modelo de datos que da cobertura entre el 50% y el 75% de los términos de negocio"
+      },
+      {
+        "id": "R030404",
+        "texto": "Existen varios modelos de datos con cobertura parciales por ámbito"
+      },
+      {
+        "id": "R030405",
+        "texto": "No existe un modelo de datos de negocio"
+      }
+    ]
+  },
+  {
+    "id": "P0305",
+    "dimension": "Paso 3 de 23 - Diccionario, glosario y metadatos",
+    "dimension_short": "Diccionario, glosario y metadatos",
+    "pilar": "Gestión y Gobierno del Dato > Diccionario, glosario y metadatos",
+    "descripcion": "Activos habilitadores del gobierno y de la eficiencia en procesos de gestión de datos, consultados y actualizados por negocio.",
+    "pregunta": "¿Qué tanta trazabilidad (linaje) tienen los términos de negocio?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R030501",
+        "texto": "Trazabilidad completa. Explotación bidireccional ágil y gobernada por herramienta ad-hoc de traza y diccionario"
+      },
+      {
+        "id": "R030502",
+        "texto": "Trazabilidad end-to-end para muchos ámbitos y parcial para otros"
+      },
+      {
+        "id": "R030503",
+        "texto": "Trazabilidad end-to-end para algunos ámbitos y parcial para otros"
+      },
+      {
+        "id": "R030504",
+        "texto": "Trazabilidad parcial a determinadas fases del ciclo de vida del dato y aplicable tan solo a algunos ámbitos"
+      },
+      {
+        "id": "R030505",
+        "texto": "No hay trazabilidad explotable de los términos. Cada usuario dispone de su linaje a su modo"
+      }
+    ]
+  },
+  {
+    "id": "P0401",
+    "dimension": "Paso 4 de 23 - Gestión de Datos Maestros",
+    "dimension_short": "Gestión de Datos Maestros",
+    "pilar": "Gestión y Gobierno del Dato > Captura y transformación",
+    "descripcion": "Tras la ingesta del dato, se debe realizar un proceso/s de transformación para convertirlo en información útil para el negocio con independencia de cómo vaya a ser consumido.",
+    "pregunta": "¿Contamos con una estrategia definida para la captura y transformación de datos?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R040101",
+        "texto": "Todos los procesos de captura alineados con Arquitectura empresarial independientemente del sistema operacional"
+      },
+      {
+        "id": "R040102",
+        "texto": "Hay patrones de captura por tipología pero procesos de captura no totalmente armonizados con Arq. Empresarial"
+      },
+      {
+        "id": "R040103",
+        "texto": "Existen patrones de captura para datos estructurados pero no para los semi o no estructurados"
+      },
+      {
+        "id": "R040104",
+        "texto": "La estrategia de captura depende de las particularidades de cada sistema origen"
+      },
+      {
+        "id": "R040105",
+        "texto": "No existe una estrategía de captura global"
+      }
+    ]
+  },
+  {
+    "id": "P0402",
+    "dimension": "Paso 4 de 23 - Gestión de Datos Maestros",
+    "dimension_short": "Gestión de Datos Maestros",
+    "pilar": "Gestión y Gobierno del Dato > Captura y transformación",
+    "descripcion": "Tras la ingesta del dato, se debe realizar un proceso/s de transformación para convertirlo en información útil para el negocio con independencia de cómo vaya a ser consumido.",
+    "pregunta": "¿Cómo esta diseñado el sistema de tolerancia a errores dentro de la captura y transformación?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R040201",
+        "texto": "Hay mecanismos (checkpoint y logging) sobre sistemas distribuidos, evitando pérdida de info y simplificando reenvío"
+      },
+      {
+        "id": "R040202",
+        "texto": "Captura soportar errores en adquisicion con recuperación por sistemas intermedios pero no para todos los origenes"
+      },
+      {
+        "id": "R040203",
+        "texto": "Captura soporta errores en adquisicion, sin tolerancia a fallos severos (alternativa: reprocesado)"
+      },
+      {
+        "id": "R040204",
+        "texto": "Chequeos técnicos indican, para cada proceso de captura en batch o micro bath, el nº datos no procesados/rechazados"
+      },
+      {
+        "id": "R040205",
+        "texto": "Sin sistema de procesamiento de errores de captura, salvo funcionalidades de las herramientas de data integration"
+      }
+    ]
+  },
+  {
+    "id": "P0403",
+    "dimension": "Paso 4 de 23 - Gestión de Datos Maestros",
+    "dimension_short": "Gestión de Datos Maestros",
+    "pilar": "Gestión y Gobierno del Dato > Captura y transformación",
+    "descripcion": "Tras la ingesta del dato, se debe realizar un proceso/s de transformación para convertirlo en información útil para el negocio con independencia de cómo vaya a ser consumido.",
+    "pregunta": "¿Cuál es la arquitectura diseñada para soportar el proceso de captura y transformación?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R040301",
+        "texto": "Cloud por capas con captura y transformación Cercano al Real Time y Streaming en cluster in-memory y mensajería distribuida"
+      },
+      {
+        "id": "R040302",
+        "texto": "Cloud por capas con captura ETL/ELT o procesos NRT con clúster de captura y transformación in-memory"
+      },
+      {
+        "id": "R040303",
+        "texto": "Se basa en una arquitectura cloud escalable con herramientas de captura que sólo permiten  ELT"
+      },
+      {
+        "id": "R040304",
+        "texto": "Se basa en una arquitectura de BI tradicional (ya sea monolítica o en la nube)"
+      },
+      {
+        "id": "R040305",
+        "texto": "No se dispone de una arquitectura estandarizada, la captura es ad-hoc contra cada origen"
+      }
+    ]
+  },
+  {
+    "id": "P0404",
+    "dimension": "Paso 4 de 23 - Gestión de Datos Maestros",
+    "dimension_short": "Gestión de Datos Maestros",
+    "pilar": "Gestión y Gobierno del Dato > Captura y transformación",
+    "descripcion": "Tras la ingesta del dato, se debe realizar un proceso/s de transformación para convertirlo en información útil para el negocio con independencia de cómo vaya a ser consumido.",
+    "pregunta": "¿Qué tratamientos se hacen en los procesos de captura y transformación?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R040401",
+        "texto": "En streaming se aplica ML para generar insights cuyo resultado es disponibilizado de forma inmediata"
+      },
+      {
+        "id": "R040402",
+        "texto": "Transformaciones complejas en el propio proceso de captura o justo al finalizar"
+      },
+      {
+        "id": "R040403",
+        "texto": "Transformac. avanzadas: tras captura, hay transformac consecutivas (de DQ hasta disponibilización para report)"
+      },
+      {
+        "id": "R040404",
+        "texto": "Transformaciones básicas: tras captura o al llegar a la zona de almacenamiento, se realiza curación del raw data"
+      },
+      {
+        "id": "R040405",
+        "texto": "Sin transformaciones inicialmente, solo se captura el dato en raw y se persiste en capa de almacenamiento"
+      }
+    ]
+  },
+  {
+    "id": "P0405",
+    "dimension": "Paso 4 de 23 - Gestión de Datos Maestros",
+    "dimension_short": "Gestión de Datos Maestros",
+    "pilar": "Gestión y Gobierno del Dato > Captura y transformación",
+    "descripcion": "Tras la ingesta del dato, se debe realizar un proceso/s de transformación para convertirlo en información útil para el negocio con independencia de cómo vaya a ser consumido.",
+    "pregunta": "¿Cúando se está midiendo el impacto de una buena captura y tratamiento de los datos?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R040501",
+        "texto": "Se contabiliza si hay Data Downtime (DDT) sobre cualquier dato. Se mide el impacto económico provocado"
+      },
+      {
+        "id": "R040502",
+        "texto": "Se mide impacto en datos necesarios para los KPIs Corporativos Tier 1 y el resto de Business Unit (Tier 2 y 3)"
+      },
+      {
+        "id": "R040503",
+        "texto": "Se mide el impacto de aquellos datos capturados y necesarios para los Kpis Corporativos (Tier 1)"
+      },
+      {
+        "id": "R040504",
+        "texto": "Se mide impacto solo si los datos capturados están relacionados con algún proceso critico"
+      },
+      {
+        "id": "R040505",
+        "texto": "No se mide el impacto"
+      }
+    ]
+  },
+  {
+    "id": "P0501",
+    "dimension": "Paso 5 de 23 - Gestión de la demanda informacional",
+    "dimension_short": "Gestión de la demanda informacional",
+    "pilar": "Gestión y Gobierno del Dato > Calidad del Dato",
+    "descripcion": "Confianza en el uso del dato disponible, existiendo circuitos habilitados para su mejora continua.",
+    "pregunta": "¿Qué tanta conciencia tiene Hortifrut sobre la calidad del datos?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c"
+    ],
+    "opciones": [
+      {
+        "id": "R050101",
+        "texto": "Muy alto, la calidad de los datos es un objetivo cuantificado y seguido por la Alta Dirección"
+      },
+      {
+        "id": "R050102",
+        "texto": "Alto, los data stewards y data owners comienzan a hacer su trabajo"
+      },
+      {
+        "id": "R050103",
+        "texto": "Medio, se han definido los roles en el modelo de gobierno, pero no se aplican"
+      },
+      {
+        "id": "R050104",
+        "texto": "Bajo, se piensa que es algo de IT"
+      },
+      {
+        "id": "R050105",
+        "texto": "Muy bajo, nadie sigue la calidad, asumen que está bien"
+      }
+    ]
+  },
+  {
+    "id": "P0502",
+    "dimension": "Paso 5 de 23 - Gestión de la demanda informacional",
+    "dimension_short": "Gestión de la demanda informacional",
+    "pilar": "Gestión y Gobierno del Dato > Calidad del Dato",
+    "descripcion": "Confianza en el uso del dato disponible, existiendo circuitos habilitados para su mejora continua.",
+    "pregunta": "¿Contamos con planes de remediación e iniciativas de calidad?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c"
+    ],
+    "opciones": [
+      {
+        "id": "R050201",
+        "texto": "Planes de remediación centralizados e iniciativas de calidad por diseño globales. Soluciones únicas para todo uso"
+      },
+      {
+        "id": "R050202",
+        "texto": "Existen planes de remediación centralizados con algunos productos/servicios prediseñados con filtros de calidad"
+      },
+      {
+        "id": "R050203",
+        "texto": "Planes de remediación centralizados pero aún no se prediseñan los productos y servicios con filtros de calidad"
+      },
+      {
+        "id": "R050204",
+        "texto": "Existen algunos planes de remediación centralizados"
+      },
+      {
+        "id": "R050205",
+        "texto": "Los planes de remediación son tácticos y departamentales. Se limitan a enmendar errores en las salidas"
+      }
+    ]
+  },
+  {
+    "id": "P0503",
+    "dimension": "Paso 5 de 23 - Gestión de la demanda informacional",
+    "dimension_short": "Gestión de la demanda informacional",
+    "pilar": "Gestión y Gobierno del Dato > Calidad del Dato",
+    "descripcion": "Confianza en el uso del dato disponible, existiendo circuitos habilitados para su mejora continua.",
+    "pregunta": "¿Qué nivel de calidad tienen los datos en Hortifrut?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c"
+    ],
+    "opciones": [
+      {
+        "id": "R050301",
+        "texto": "Muy alto. Hay seguimiento de datos core y de gestión, aplicando planes preventivos o reactivos según criticidad"
+      },
+      {
+        "id": "R050302",
+        "texto": "Alto, se mide la calidad en los datos core y se gestiona de manera reactiva y preventiva"
+      },
+      {
+        "id": "R050303",
+        "texto": "Medio, se comienza a medir la calidad en los datos core y se gestiona de manera reactiva"
+      },
+      {
+        "id": "R050304",
+        "texto": "Bajo, se tiene consciencia de los datos core, pero no se mide"
+      },
+      {
+        "id": "R050305",
+        "texto": "Muy bajo, no se mide y hay inseguridad en los datos core (reportados a los reguladores o externos) y de gestión"
+      }
+    ]
+  },
+  {
+    "id": "P0504",
+    "dimension": "Paso 5 de 23 - Gestión de la demanda informacional",
+    "dimension_short": "Gestión de la demanda informacional",
+    "pilar": "Gestión y Gobierno del Dato > Calidad del Dato",
+    "descripcion": "Confianza en el uso del dato disponible, existiendo circuitos habilitados para su mejora continua.",
+    "pregunta": "¿Contamos con políticas para la aplicación de Calidad del Dato?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c"
+    ],
+    "opciones": [
+      {
+        "id": "R050401",
+        "texto": "Existen políticas aprobadas a máximo nivel. Cumplimiento con objetivos concretos seguido por alta dirección"
+      },
+      {
+        "id": "R050402",
+        "texto": "Existen políticas aprobadas a alto nivel, pero con seguimientos parciales y sin objetivar a los equipos"
+      },
+      {
+        "id": "R050403",
+        "texto": "Existen planes generales de Calidad del Dato, coordinados por una unidad independiente (CDO, Calidad...)"
+      },
+      {
+        "id": "R050404",
+        "texto": "Existen planes departamentales de calidad del Dato"
+      },
+      {
+        "id": "R050405",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P0505",
+    "dimension": "Paso 5 de 23 - Gestión de la demanda informacional",
+    "dimension_short": "Gestión de la demanda informacional",
+    "pilar": "Gestión y Gobierno del Dato > Calidad del Dato",
+    "descripcion": "Confianza en el uso del dato disponible, existiendo circuitos habilitados para su mejora continua.",
+    "pregunta": "¿Contamos con una herramienta de monitoreo de la Calidad del Dato?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c"
+    ],
+    "opciones": [
+      {
+        "id": "R050501",
+        "texto": "Herramienta única que monitorea la Calidad en todas las capas del ciclo y para todos los ámbitos funcionales"
+      },
+      {
+        "id": "R050502",
+        "texto": "Herramienta corporativa de monitorización. Aplica a algunas capas del ciclo de vida y a algunos ámbitos funcionales"
+      },
+      {
+        "id": "R050503",
+        "texto": "Existen herramientas departamentales que son unificadas en un ámbito coordinador (CDO, Calidad...)"
+      },
+      {
+        "id": "R050504",
+        "texto": "Existen herramientas ofimáticas departamentales"
+      },
+      {
+        "id": "R050505",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P0601",
+    "dimension": "Paso 6 de 23 - Calidad del Dato",
+    "dimension_short": "Calidad del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Privacidad",
+    "descripcion": "El derecho de las personas al control sobre sus datos",
+    "pregunta": "Grado de mantenimiento y actualización de los tratamientos de datos personales en la Hortifrut",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R060101",
+        "texto": "Actualización proactiva prioritaria para responsables internos de tratamiento. Existe una herramienta donde residen"
+      },
+      {
+        "id": "R060102",
+        "texto": "La actualización permanente se considera una prioridad y se fomenta la actualización periódica en herramienta común"
+      },
+      {
+        "id": "R060103",
+        "texto": "Mantenimiento y actualización desigual, con mayor foco en los internos y menos para los encargados a terceros"
+      },
+      {
+        "id": "R060104",
+        "texto": "Existe un mantenimiento de mínimos para cumplir con la legislación"
+      },
+      {
+        "id": "R060105",
+        "texto": "Existe una relación inicial de tratamientos pero no la garantía de su actualización"
+      }
+    ]
+  },
+  {
+    "id": "P0602",
+    "dimension": "Paso 6 de 23 - Calidad del Dato",
+    "dimension_short": "Calidad del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Privacidad",
+    "descripcion": "El derecho de las personas al control sobre sus datos",
+    "pregunta": "¿Contamos con planes de sensibilización y formación sobre el tratamiento de datos personales?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R060201",
+        "texto": "Existe una red interna de responsables del tratamiento que reciben formación recurrente según sus necesidades"
+      },
+      {
+        "id": "R060202",
+        "texto": "Existen planes de formación que se actualizan con las nuevas reglamentaciones y publicaciones de la AEPD"
+      },
+      {
+        "id": "R060203",
+        "texto": "Planes de formación no específicos para los diferentes colectivos ni adaptados a la evolución de las casuísticas"
+      },
+      {
+        "id": "R060204",
+        "texto": "Existe formación pero se centra exclusivamente en el DPO y desde una perspectiva únicamente jurídica"
+      },
+      {
+        "id": "R060205",
+        "texto": "No existen planes de sensibilización ni formación"
+      }
+    ]
+  },
+  {
+    "id": "P0603",
+    "dimension": "Paso 6 de 23 - Calidad del Dato",
+    "dimension_short": "Calidad del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Privacidad",
+    "descripcion": "El derecho de las personas al control sobre sus datos",
+    "pregunta": "¿Contamos con procesos internos de evaluación del riesgo de un tratamiento nuevo de datos personales?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R060301",
+        "texto": "Existen y no se realiza ningún tratamiento sin la evaluación previa que fomenta el responsable del tratamiento"
+      },
+      {
+        "id": "R060302",
+        "texto": "Existe y se realizan de forma previa aunque es observado como un freno a la dinámica de negocio"
+      },
+      {
+        "id": "R060303",
+        "texto": "Existen, hay un proceso interno de evaluación con criterios y una evaluación previa del riesgo"
+      },
+      {
+        "id": "R060304",
+        "texto": "Existen pero no son lo suficientemente conocidos y empleados: cultura reactiva"
+      },
+      {
+        "id": "R060305",
+        "texto": "No existen"
+      }
+    ]
+  },
+  {
+    "id": "P0604",
+    "dimension": "Paso 6 de 23 - Calidad del Dato",
+    "dimension_short": "Calidad del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Privacidad",
+    "descripcion": "El derecho de las personas al control sobre sus datos",
+    "pregunta": "Grado de implantación y cumplimiento de la normativa de datos personales",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R060401",
+        "texto": "El esquema de evaluación y cumplimiento está implantado y ya se ha auditado su cumplimiento"
+      },
+      {
+        "id": "R060402",
+        "texto": "Esquema de evaluación y cumplimiento GDPR implantando en las áreas afectadas y servicios jurídicos, compras e IT"
+      },
+      {
+        "id": "R060403",
+        "texto": "Las áreas de negocio y corporativas conocen el esquema y se están formando para cumplirlo de forma proactiva"
+      },
+      {
+        "id": "R060404",
+        "texto": "Se está implantando"
+      },
+      {
+        "id": "R060405",
+        "texto": "No existe esquema de evaluación y cumplimiento"
+      }
+    ]
+  },
+  {
+    "id": "P0605",
+    "dimension": "Paso 6 de 23 - Calidad del Dato",
+    "dimension_short": "Calidad del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Privacidad",
+    "descripcion": "El derecho de las personas al control sobre sus datos",
+    "pregunta": "¿Qué tanto autoconocimiento e involucramiento tiene Hortifrut en el ámbito de la privacidad?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R060501",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R060502",
+        "texto": "Alto"
+      },
+      {
+        "id": "R060503",
+        "texto": "Medio"
+      },
+      {
+        "id": "R060504",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R060505",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P0701",
+    "dimension": "Paso 7 de 23 - Arquitectura del Dato",
+    "dimension_short": "Arquitectura del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Ética del Dato",
+    "descripcion": "Todo lo que hacemos con los datos tiene un impacto en las personas. Por ello debemos dotarnos de unos principios éticos del dato.",
+    "pregunta": "¿Qué nivel de conocimiento e involucramiento tiene la primera línea en dilemas éticos de datos?",
+    "grupos": [
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R070101",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R070102",
+        "texto": "Alto"
+      },
+      {
+        "id": "R070103",
+        "texto": "Medio"
+      },
+      {
+        "id": "R070104",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R070105",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P0702",
+    "dimension": "Paso 7 de 23 - Arquitectura del Dato",
+    "dimension_short": "Arquitectura del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Ética del Dato",
+    "descripcion": "Todo lo que hacemos con los datos tiene un impacto en las personas. Por ello debemos dotarnos de unos principios éticos del dato.",
+    "pregunta": "¿Contamos con políticas de Ética del Dato?",
+    "grupos": [
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R070201",
+        "texto": "Hay políticas de Ética del Dato, aprobadas a máximo nivel, incluidas en Plan de Responsabilidad Social Corporativa"
+      },
+      {
+        "id": "R070202",
+        "texto": "Existen políticas que afectan a la mayoría de los dilemas posibles, pero son gestionadas a nivel departamental"
+      },
+      {
+        "id": "R070203",
+        "texto": "Sí existen, pero limitadas a ámbitos parciales (algoritmos, IA...)"
+      },
+      {
+        "id": "R070204",
+        "texto": "No existen pero hay un plan para implantarlas en menos de 12 meses"
+      },
+      {
+        "id": "R070205",
+        "texto": "No existen"
+      }
+    ]
+  },
+  {
+    "id": "P0703",
+    "dimension": "Paso 7 de 23 - Arquitectura del Dato",
+    "dimension_short": "Arquitectura del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Ética del Dato",
+    "descripcion": "Todo lo que hacemos con los datos tiene un impacto en las personas. Por ello debemos dotarnos de unos principios éticos del dato.",
+    "pregunta": "Conocimiento y formación en ética del dato",
+    "grupos": [
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R070301",
+        "texto": "Conocimiento extendido a todos los gestores de datos con canales de comunicación formales y formación específica"
+      },
+      {
+        "id": "R070302",
+        "texto": "Gran parte de usuarios data formados, conocen problemática y participan en los canales de comunicación implantados"
+      },
+      {
+        "id": "R070303",
+        "texto": "Se ha empezado a formar a las áreas involucradas y se están implantado canales de comunicación formales"
+      },
+      {
+        "id": "R070304",
+        "texto": "No existe conocimiento pero hay un plan de formación sobre ética del dato a implantar en los próximos 12 meses"
+      },
+      {
+        "id": "R070305",
+        "texto": "No existe conocimiento ni planes de formación sobre ética del dato"
+      }
+    ]
+  },
+  {
+    "id": "P0704",
+    "dimension": "Paso 7 de 23 - Arquitectura del Dato",
+    "dimension_short": "Arquitectura del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Ética del Dato",
+    "descripcion": "Todo lo que hacemos con los datos tiene un impacto en las personas. Por ello debemos dotarnos de unos principios éticos del dato.",
+    "pregunta": "Controles en los algoritmos",
+    "grupos": [
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R070401",
+        "texto": "Todos los algoritmos tienen políticas de eliminación de sesgos, con marco de control formal y auditado externamente"
+      },
+      {
+        "id": "R070402",
+        "texto": "Mayoría de algoritmos con control de sesgos y discrimaciones, si bien no existe un entorno de control formal"
+      },
+      {
+        "id": "R070403",
+        "texto": "Algunos algoritmos incluyen control de sesgos y discrimaciones"
+      },
+      {
+        "id": "R070404",
+        "texto": "No existen controles éticos en ningún algoritmo pero hay un plan para implantarlos en menos de 12 meses"
+      },
+      {
+        "id": "R070405",
+        "texto": "No existen controles éticos en ningún algoritmo"
+      }
+    ]
+  },
+  {
+    "id": "P0705",
+    "dimension": "Paso 7 de 23 - Arquitectura del Dato",
+    "dimension_short": "Arquitectura del Dato",
+    "pilar": "Gestión y Gobierno del Dato > Ética del Dato",
+    "descripcion": "Todo lo que hacemos con los datos tiene un impacto en las personas. Por ello debemos dotarnos de unos principios éticos del dato.",
+    "pregunta": "Ética en el diseño de productos y servicios",
+    "grupos": [
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R070501",
+        "texto": "Diseño de productos/servicios con filtro de comité ético, previo a construcción, en un Plan de Gestión Responsable"
+      },
+      {
+        "id": "R070502",
+        "texto": "Análisis de Ética data en nuevos productos/servicios en la fase de diseño, con visión de riesgo reputacional"
+      },
+      {
+        "id": "R070503",
+        "texto": "Modelos avanzados para diseño de algunos productos/servicios pasan filtro ético. Foco cumplim normat (riesgo legal)"
+      },
+      {
+        "id": "R070504",
+        "texto": "No existen procedimientos pero se tiene previsto implantarlos en los próximos 12 meses"
+      },
+      {
+        "id": "R070505",
+        "texto": "No existen procedimientos ni comités que analicen la ética en datos relativa a productos y servicios"
+      }
+    ]
+  },
+  {
+    "id": "P0801",
+    "dimension": "Paso 8 de 23 - Seguridad de la Información",
+    "dimension_short": "Seguridad de la Información",
+    "pilar": "Gestión y Gobierno del Dato > Arquitectura del Dato",
+    "descripcion": "Ecosistema corporativo (capacidades + modelo de datos) que da respuesta a las necesidades de tratamiento, uso y gestión de datos de la Compañía.",
+    "pregunta": "¿Cómo es el grado de penetración de la arquitectura del datos entre el sistema operacional y el informacional?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R080101",
+        "texto": "Alto, arquitectura operacional e informacional integradas en modelo único (visión negocio) para todos los usos"
+      },
+      {
+        "id": "R080102",
+        "texto": "Medio-alto, los modelos de datos operacional e informacional dan cobertura parcial a los casos de uso"
+      },
+      {
+        "id": "R080103",
+        "texto": "Medio, arquitectura en operacional e informacional integradas parcialmente en un modelo, pero separadas entre ellas"
+      },
+      {
+        "id": "R080104",
+        "texto": "Medio-bajo. Acciones para dar cobertura a modelos de datos integrados en operacional e informac., pero separados"
+      },
+      {
+        "id": "R080105",
+        "texto": "Bajo, arquitectura en silos y operacional separado del informacional"
+      }
+    ]
+  },
+  {
+    "id": "P0802",
+    "dimension": "Paso 8 de 23 - Seguridad de la Información",
+    "dimension_short": "Seguridad de la Información",
+    "pilar": "Gestión y Gobierno del Dato > Arquitectura del Dato",
+    "descripcion": "Ecosistema corporativo (capacidades + modelo de datos) que da respuesta a las necesidades de tratamiento, uso y gestión de datos de la Compañía.",
+    "pregunta": "¿Qué herramientas soportan la arquitectura de datos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R080201",
+        "texto": "Existe herramienta de modelo, traza técnica y data profiling"
+      },
+      {
+        "id": "R080202",
+        "texto": "Existe herramienta de modelo y se complementa con traza técnica y/o data profiling"
+      },
+      {
+        "id": "R080203",
+        "texto": "Existe una herramienta de para la gestión del modelo común de datos"
+      },
+      {
+        "id": "R080204",
+        "texto": "Cada iniciativa documenta en herramientas ofimáticas"
+      },
+      {
+        "id": "R080205",
+        "texto": "No se documenta nada"
+      }
+    ]
+  },
+  {
+    "id": "P0803",
+    "dimension": "Paso 8 de 23 - Seguridad de la Información",
+    "dimension_short": "Seguridad de la Información",
+    "pilar": "Gestión y Gobierno del Dato > Arquitectura del Dato",
+    "descripcion": "Ecosistema corporativo (capacidades + modelo de datos) que da respuesta a las necesidades de tratamiento, uso y gestión de datos de la Compañía.",
+    "pregunta": "¿Qué grado de cobertura tiene el modelo de datos en la generación de valor de la organización?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R080301",
+        "texto": "Alto. Modelo de datos cubre informacional y analítica avanzada (Data Fabric+BigData). Principios gobernados por CDO"
+      },
+      {
+        "id": "R080302",
+        "texto": "Medio-alto. Modelo de datos cubre generación de reporting y autoconsumo libre de información. Principios definidos"
+      },
+      {
+        "id": "R080303",
+        "texto": "Medio. Modelo de datos cubre la explotación de la información para reporting. Se permite granularidad para explotar"
+      },
+      {
+        "id": "R080304",
+        "texto": "Medio-bajo. Modelo de datos da cobertura a la explotación de la información para el reporting información por áreas"
+      },
+      {
+        "id": "R080305",
+        "texto": "Bajo, los modelos son gestionados en silos, lo que conlleva duplicidades y falta de gobierno"
+      }
+    ]
+  },
+  {
+    "id": "P0804",
+    "dimension": "Paso 8 de 23 - Seguridad de la Información",
+    "dimension_short": "Seguridad de la Información",
+    "pilar": "Gestión y Gobierno del Dato > Arquitectura del Dato",
+    "descripcion": "Ecosistema corporativo (capacidades + modelo de datos) que da respuesta a las necesidades de tratamiento, uso y gestión de datos de la Compañía.",
+    "pregunta": "¿Existe algún modelo de gobierno de gestión de los datos maestros?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R080401",
+        "texto": "Sí, los datos maestros se tratan como un activo y hay roles y procesos específicos para su gestión"
+      },
+      {
+        "id": "R080402",
+        "texto": "Sí, se trata en el operacional, todas las aplicaciones comparten maestros"
+      },
+      {
+        "id": "R080403",
+        "texto": "Sí, pero en el ámbito informacional"
+      },
+      {
+        "id": "R080404",
+        "texto": "Si, pero es interno de cada aplicación"
+      },
+      {
+        "id": "R080405",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P0805",
+    "dimension": "Paso 8 de 23 - Seguridad de la Información",
+    "dimension_short": "Seguridad de la Información",
+    "pilar": "Gestión y Gobierno del Dato > Arquitectura del Dato",
+    "descripcion": "Ecosistema corporativo (capacidades + modelo de datos) que da respuesta a las necesidades de tratamiento, uso y gestión de datos de la Compañía.",
+    "pregunta": "¿Hay tecnología específica para la gestión de datos maestros?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R080501",
+        "texto": "Sí, integra nuevas fuentes de tecnología"
+      },
+      {
+        "id": "R080502",
+        "texto": "Sí, tanto para el informacional como el operacional"
+      },
+      {
+        "id": "R080503",
+        "texto": "Sí, pero en el DWH centralizado"
+      },
+      {
+        "id": "R080504",
+        "texto": "No, porque depende de los proyectos de implantación la actualización"
+      },
+      {
+        "id": "R080505",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P0901",
+    "dimension": "Paso 9 de 23 - El Rol del Chief Data Officer",
+    "dimension_short": "El Rol del Chief Data Officer",
+    "pilar": "Gestión y Gobierno del Dato > Seguridad de la Información",
+    "descripcion": "Medición y garantía de que la información está protegida y adecuadamente accesible.",
+    "pregunta": "¿Contamos con políticas de contraseñas y accesos a los sistemas de información con roles definidos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4"
+    ],
+    "opciones": [
+      {
+        "id": "R090101",
+        "texto": "Políticas y sistema de autentificación con cumplimiento monitorizado integrado en SIEM (Sist Gest Eventos de Segur)"
+      },
+      {
+        "id": "R090102",
+        "texto": "Política de contraseñas y roles definida para cada activo de información con sistema de autentificación corporativo"
+      },
+      {
+        "id": "R090103",
+        "texto": "Existe una política de contraseñas y de roles definida"
+      },
+      {
+        "id": "R090104",
+        "texto": "Existe una política de contraseñas pero no hay roles definidos para el acceso"
+      },
+      {
+        "id": "R090105",
+        "texto": "No existen"
+      }
+    ]
+  },
+  {
+    "id": "P0902",
+    "dimension": "Paso 9 de 23 - El Rol del Chief Data Officer",
+    "dimension_short": "El Rol del Chief Data Officer",
+    "pilar": "Gestión y Gobierno del Dato > Seguridad de la Información",
+    "descripcion": "Medición y garantía de que la información está protegida y adecuadamente accesible.",
+    "pregunta": "Procedimientos internos de homologación de la seguridad de cualquier nuevo software",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4"
+    ],
+    "opciones": [
+      {
+        "id": "R090201",
+        "texto": "No se implanta ningún nuevo hardware o sofware que no haya sido homologado y se extiende al Cloud"
+      },
+      {
+        "id": "R090202",
+        "texto": "Existen pero no se utiliza para las soluciones SaaS en Cloud"
+      },
+      {
+        "id": "R090203",
+        "texto": "Existen pero no se cumple para las soluciones de \"shadow IT\" que existen por las diferentes áreas"
+      },
+      {
+        "id": "R090204",
+        "texto": "Existen pero solo se utilizan para los sistemas de información principales"
+      },
+      {
+        "id": "R090205",
+        "texto": "No existen"
+      }
+    ]
+  },
+  {
+    "id": "P0903",
+    "dimension": "Paso 9 de 23 - El Rol del Chief Data Officer",
+    "dimension_short": "El Rol del Chief Data Officer",
+    "pilar": "Gestión y Gobierno del Dato > Seguridad de la Información",
+    "descripcion": "Medición y garantía de que la información está protegida y adecuadamente accesible.",
+    "pregunta": "¿Contamos con planes de contingencia definidos y de recuperación de la información y se revisan periódicamente?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4"
+    ],
+    "opciones": [
+      {
+        "id": "R090301",
+        "texto": "Existen planes de contingencia y recuperación y se revisan periódicamente por IT y se auditan"
+      },
+      {
+        "id": "R090302",
+        "texto": "Existen planes de contingencia y recuperación para los procesos críticos"
+      },
+      {
+        "id": "R090303",
+        "texto": "Planes de contigencia y recuperación parciales y no cubren todos los procesos críticos de negocio/corporación"
+      },
+      {
+        "id": "R090304",
+        "texto": "Existen planes de contingencia para temas muy críticos pero no de disaster recovery"
+      },
+      {
+        "id": "R090305",
+        "texto": "No existen planes de contingencia y de recuperación de la información"
+      }
+    ]
+  },
+  {
+    "id": "P0904",
+    "dimension": "Paso 9 de 23 - El Rol del Chief Data Officer",
+    "dimension_short": "El Rol del Chief Data Officer",
+    "pilar": "Gestión y Gobierno del Dato > Seguridad de la Información",
+    "descripcion": "Medición y garantía de que la información está protegida y adecuadamente accesible.",
+    "pregunta": "¿Qué nivel de extensión tiene el sistema de alarmas de intrusión y de acceso a datos críticos y su monitoreo?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4"
+    ],
+    "opciones": [
+      {
+        "id": "R090401",
+        "texto": "SIEM recoge y monitoriza los eventos de intrusión y los casos definidos de acceso y transformac. de datos críticos"
+      },
+      {
+        "id": "R090402",
+        "texto": "El SIEM recoge y monitoriza los eventos de seguridad (alarmas, logs …) de intrusión (ciberseguridad)"
+      },
+      {
+        "id": "R090403",
+        "texto": "Existe un SIEM que recoge los eventos de seguridad con plan de despliegue paulatino a diferentes redes y sistemas"
+      },
+      {
+        "id": "R090404",
+        "texto": "Iniciada implantación de un SIEM para la recolección y análisis de eventos de seguridad"
+      },
+      {
+        "id": "R090405",
+        "texto": "No existe ningún sistema de generación de alarmas de intrusión ni de monitorización del acceso a datos críticos"
+      }
+    ]
+  },
+  {
+    "id": "P0905",
+    "dimension": "Paso 9 de 23 - El Rol del Chief Data Officer",
+    "dimension_short": "El Rol del Chief Data Officer",
+    "pilar": "Gestión y Gobierno del Dato > Seguridad de la Información",
+    "descripcion": "Medición y garantía de que la información está protegida y adecuadamente accesible.",
+    "pregunta": "Nivel de extensión de KPI's que miden el grado de seguridad interna y ciberseguridad de la Hortifrut",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4"
+    ],
+    "opciones": [
+      {
+        "id": "R090501",
+        "texto": "Existen KPIs definidos. En ciberseguridad se practica el benchmark con otras organizaciones para mejora contínua"
+      },
+      {
+        "id": "R090502",
+        "texto": "Existen KPIs en el ambito de la seguridad interna y de la ciberseguridad (p.e. nº intrusiones)"
+      },
+      {
+        "id": "R090503",
+        "texto": "Existen KPI's en el ámbito de la seguridad interna (p.e nº de usuarios fuera de sistemas de autentificación únicos)"
+      },
+      {
+        "id": "R090504",
+        "texto": "No existen KPI definidos pero se sigue cualitativamente el nivel de cumplimiento de las políticas de seguridad"
+      },
+      {
+        "id": "R090505",
+        "texto": "No existen KPI definidos en ningún ámbito de la seguridad de la información"
+      }
+    ]
+  },
+  {
+    "id": "P1001",
+    "dimension": "Paso 10 de 23 - Visualizaciones y experiencia de usuario",
+    "dimension_short": "Visualizaciones y experiencia de usuario",
+    "pilar": "Gestión y Gobierno del Dato > Infraestructura para productos de datos",
+    "descripcion": "Para poder tratar el dato como un activo este debe de ser almacenado en diferentes capas de un repositorio/s para su conversión y activación como producto.",
+    "pregunta": "¿Qué grado de escalabilidad aportan las infraestructuras de datos?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a"
+    ],
+    "opciones": [
+      {
+        "id": "R100101",
+        "texto": "Alto. Migración Cloud hecha, agilidad patente. Se trabaja por data products independientes que crean ecosistemas"
+      },
+      {
+        "id": "R100102",
+        "texto": "Medio-alto. Acelera la escalabilidad. Se comienza a trabajar con entornos ML integrados en la infraestrutura"
+      },
+      {
+        "id": "R100103",
+        "texto": "Medio, se empieza a trabajar en la nube y con datos desestructurados"
+      },
+      {
+        "id": "R100104",
+        "texto": "Medio-Bajo, se empieza a trabajar con datos semi-estructurados"
+      },
+      {
+        "id": "R100105",
+        "texto": "Bajo, actualmente se trabaja sobre un modelo de DWH clásico"
+      }
+    ]
+  },
+  {
+    "id": "P1002",
+    "dimension": "Paso 10 de 23 - Visualizaciones y experiencia de usuario",
+    "dimension_short": "Visualizaciones y experiencia de usuario",
+    "pilar": "Gestión y Gobierno del Dato > Infraestructura para productos de datos",
+    "descripcion": "Para poder tratar el dato como un activo este debe de ser almacenado en diferentes capas de un repositorio/s para su conversión y activación como producto.",
+    "pregunta": "¿Cómo se gestionan los costos asociados a la infraestructura de datos?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a"
+    ],
+    "opciones": [
+      {
+        "id": "R100201",
+        "texto": "Arquitectura 100% cloud o híbirda pero con distribución de costes a las unidades usuarias"
+      },
+      {
+        "id": "R100202",
+        "texto": "Parte de arquitecturas legacy en cloud. Reducción de costes fijos y distribución de los fijos a los usuarios"
+      },
+      {
+        "id": "R100203",
+        "texto": "Se define un plan para migrar al cloud las arquitecturas legacy. Hay un plan de costes por uso"
+      },
+      {
+        "id": "R100204",
+        "texto": "Se empieza a trabajar en almacenamientos cloud para nuevos desarrollos. Comienza la variabilización de costes"
+      },
+      {
+        "id": "R100205",
+        "texto": "Elevados costes fijos. Infraestructura principalmente on-premise"
+      }
+    ]
+  },
+  {
+    "id": "P1003",
+    "dimension": "Paso 10 de 23 - Visualizaciones y experiencia de usuario",
+    "dimension_short": "Visualizaciones y experiencia de usuario",
+    "pilar": "Gestión y Gobierno del Dato > Infraestructura para productos de datos",
+    "descripcion": "Para poder tratar el dato como un activo este debe de ser almacenado en diferentes capas de un repositorio/s para su conversión y activación como producto.",
+    "pregunta": "¿Cómo es el paso a producción de los productos de datos?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a"
+    ],
+    "opciones": [
+      {
+        "id": "R100301",
+        "texto": "El paso a producción de los desarrollos o productos de datos está automatizada y es revisada en casos puntuales"
+      },
+      {
+        "id": "R100302",
+        "texto": "Los usuarios pueden validar sus desarrollos y pasar a producción los departamentales"
+      },
+      {
+        "id": "R100303",
+        "texto": "Existen herramientas de validación de desarrollos que ayudan a simplificar el paso a producción por los equipos IT"
+      },
+      {
+        "id": "R100304",
+        "texto": "Usuarios con libertad para comenzar desarrollos departamentales pero necesitan presupuesto para paso a producción"
+      },
+      {
+        "id": "R100305",
+        "texto": "Todos los desarrollos se deben hacer de manera centralizada y los pasos a producción son por equipos de IT"
+      }
+    ]
+  },
+  {
+    "id": "P1004",
+    "dimension": "Paso 10 de 23 - Visualizaciones y experiencia de usuario",
+    "dimension_short": "Visualizaciones y experiencia de usuario",
+    "pilar": "Gestión y Gobierno del Dato > Infraestructura para productos de datos",
+    "descripcion": "Para poder tratar el dato como un activo este debe de ser almacenado en diferentes capas de un repositorio/s para su conversión y activación como producto.",
+    "pregunta": "¿Cómo es el acceso y la autonomía en el uso de la información?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a"
+    ],
+    "opciones": [
+      {
+        "id": "R100401",
+        "texto": "Existe una visión integrada, con arquitecturas DataFabric o Data Mesh"
+      },
+      {
+        "id": "R100402",
+        "texto": "Media-alta. Existe visión holítica de los datos (ej. Virtualización) pero algunas infraestruturas son distintas"
+      },
+      {
+        "id": "R100403",
+        "texto": "Media, hay un plan para disponer de una infraestructura común para los datos"
+      },
+      {
+        "id": "R100404",
+        "texto": "Media-Baja, aunque hay varias infraestructuras hay un repositorio de información que ayuda en el acceso"
+      },
+      {
+        "id": "R100405",
+        "texto": "Baja, hay varias infraestructuras y no hay una visión única del modelo"
+      }
+    ]
+  },
+  {
+    "id": "P1005",
+    "dimension": "Paso 10 de 23 - Visualizaciones y experiencia de usuario",
+    "dimension_short": "Visualizaciones y experiencia de usuario",
+    "pilar": "Gestión y Gobierno del Dato > Infraestructura para productos de datos",
+    "descripcion": "Para poder tratar el dato como un activo este debe de ser almacenado en diferentes capas de un repositorio/s para su conversión y activación como producto.",
+    "pregunta": "¿Qué tan completa es la infraestructura para productos de datos?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a"
+    ],
+    "opciones": [
+      {
+        "id": "R100501",
+        "texto": "Alta, cubre la generación y publicación automática de todos los productos de datos"
+      },
+      {
+        "id": "R100502",
+        "texto": "Media-Alta, se integra la publicación de modelos de inteligencia artificial"
+      },
+      {
+        "id": "R100503",
+        "texto": "Media, se permite publicar cuadros de mando y datasets"
+      },
+      {
+        "id": "R100504",
+        "texto": "Media-Baja, contiene el almacenamiento y algunas herramientas de autoconsumo"
+      },
+      {
+        "id": "R100505",
+        "texto": "Baja, solo contiene el almacenamiento"
+      }
+    ]
+  },
+  {
+    "id": "P1101",
+    "dimension": "Paso 11 de 23 - Reporting de gestión",
+    "dimension_short": "Reporting de gestión",
+    "pilar": "Consumo de Información > Visualizaciones y experiencia de usuario",
+    "descripcion": "Es preciso adaptar la forma de presentar la información, acercándola al entendimiento de los usuarios. Mejor UX = Mayor Valor.",
+    "pregunta": "¿Tenemos definida una herramienta para visualizacion de datos para los analístas?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R110101",
+        "texto": "Sí. Definidos principios de uso en catálogo en función de las necesidades. Unificado para toda la organización"
+      },
+      {
+        "id": "R110102",
+        "texto": "Sí, hay un catálogo accesible con la marca de la compañía"
+      },
+      {
+        "id": "R110103",
+        "texto": "Sí, hay un catálogo seleccionado sobre herramienta de BI&BigData"
+      },
+      {
+        "id": "R110104",
+        "texto": "Sí, las que aportan las herramientas de BI & BigData homologadas"
+      },
+      {
+        "id": "R110105",
+        "texto": "No, depende de los proyectos"
+      }
+    ]
+  },
+  {
+    "id": "P1102",
+    "dimension": "Paso 11 de 23 - Reporting de gestión",
+    "dimension_short": "Reporting de gestión",
+    "pilar": "Consumo de Información > Visualizaciones y experiencia de usuario",
+    "descripcion": "Es preciso adaptar la forma de presentar la información, acercándola al entendimiento de los usuarios. Mejor UX = Mayor Valor.",
+    "pregunta": "¿Contamos con un framework de herramientas de explotación para los analístas de datos?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R110201",
+        "texto": "Sí. Framework cubre todos los casos de uso departament. y corporativos. Incluye gráficos necesarios y homologados"
+      },
+      {
+        "id": "R110202",
+        "texto": "Sí, existen herramientas de reporting y autoconsumo comunes, con las que se expone la información a otras áreas"
+      },
+      {
+        "id": "R110203",
+        "texto": "Sí, hay herramientas de reporting y autoconsumo pero departamentales. Distribución por herramientas ofimáticas"
+      },
+      {
+        "id": "R110204",
+        "texto": "Sí, hay herramientas de reporting y autoconsumo pero gestionadas solo desde IT."
+      },
+      {
+        "id": "R110205",
+        "texto": "No, se usan herramientas ofimáticas"
+      }
+    ]
+  },
+  {
+    "id": "P1103",
+    "dimension": "Paso 11 de 23 - Reporting de gestión",
+    "dimension_short": "Reporting de gestión",
+    "pilar": "Consumo de Información > Visualizaciones y experiencia de usuario",
+    "descripcion": "Es preciso adaptar la forma de presentar la información, acercándola al entendimiento de los usuarios. Mejor UX = Mayor Valor.",
+    "pregunta": "¿Está integrada la experiencia de usuario en la creación de informes y/o Cuadros de Mando?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R110301",
+        "texto": "Sí. Hay principios de diseño y el equipo Datos asegura la UX (ex-ante) en el consumo de la información"
+      },
+      {
+        "id": "R110302",
+        "texto": "Sí. Hay principios de diseño y un equipo revisa UX ex-post en distribuciones importantes y genera recomendaciones"
+      },
+      {
+        "id": "R110303",
+        "texto": "Parcialmente, hay guías de diseño, homogéneas para todos los canales de distribución de la información"
+      },
+      {
+        "id": "R110304",
+        "texto": "Escasamente, se cuida el UX en algunos canales de distribución pero no homogéneamente entre ellos"
+      },
+      {
+        "id": "R110305",
+        "texto": "No oficialmente, los cuadros de mando son creados por los analistas o desarrollados de manera independiente"
+      }
+    ]
+  },
+  {
+    "id": "P1104",
+    "dimension": "Paso 11 de 23 - Reporting de gestión",
+    "dimension_short": "Reporting de gestión",
+    "pilar": "Consumo de Información > Visualizaciones y experiencia de usuario",
+    "descripcion": "Es preciso adaptar la forma de presentar la información, acercándola al entendimiento de los usuarios. Mejor UX = Mayor Valor.",
+    "pregunta": "¿Se mide la aportación de valor de la experiencia de usuario?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R110401",
+        "texto": "Sí, de manera cuantitativa (generación de valor intensidad y relevancia del uso) y cualitativa (encuestas)"
+      },
+      {
+        "id": "R110402",
+        "texto": "Sí de manera cualitativa (encuestas) y se compara siendo un objetivo de los equipos de desarrollo"
+      },
+      {
+        "id": "R110403",
+        "texto": "Sí de manera cualitativa (encuestas)"
+      },
+      {
+        "id": "R110404",
+        "texto": "Sí de manera informal"
+      },
+      {
+        "id": "R110405",
+        "texto": "No, solo hay foco en tener lo datos"
+      }
+    ]
+  },
+  {
+    "id": "P1105",
+    "dimension": "Paso 11 de 23 - Reporting de gestión",
+    "dimension_short": "Reporting de gestión",
+    "pilar": "Consumo de Información > Visualizaciones y experiencia de usuario",
+    "descripcion": "Es preciso adaptar la forma de presentar la información, acercándola al entendimiento de los usuarios. Mejor UX = Mayor Valor.",
+    "pregunta": "¿Contamos con perfiles especialistas en visualización y/o experiencia de usuario?",
+    "grupos": [
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R110501",
+        "texto": "Existen, en el Centro de Competencias de BI y/o BigData, dependiente de CDO y con foco en el consumo de información"
+      },
+      {
+        "id": "R110502",
+        "texto": "Sí ampliamente, están identificados distribuidos por las áreas usuarias y tienen el cometido del reporting"
+      },
+      {
+        "id": "R110503",
+        "texto": "Sí parcialmente, están identificados distribuidos por las áreas usuarias o no tienen el cometido del reporting"
+      },
+      {
+        "id": "R110504",
+        "texto": "Sí escasamente, no están identificados oficialmente"
+      },
+      {
+        "id": "R110505",
+        "texto": "No existen en la organización"
+      }
+    ]
+  },
+  {
+    "id": "P1201",
+    "dimension": "Paso 12 de 23 - Reporting regulatorio",
+    "dimension_short": "Reporting regulatorio",
+    "pilar": "Consumo de Información > Reporting",
+    "descripcion": "El reporting es el lenguaje por el que comunicamos los resultados para la mejora de toma de decisiones, no sólo es el qué sino también es el cómo.",
+    "pregunta": "Grado de manualidad en las elaboraciones de dashboard",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R120101",
+        "texto": "Elaboración del reporting automática con proceso de ingesta de ajustes manuales automático y gobernado"
+      },
+      {
+        "id": "R120102",
+        "texto": "Fuentes mayoritariam. automáticas. Ajustes manuales gobernados: responsables, documentados, trazables, replicables"
+      },
+      {
+        "id": "R120103",
+        "texto": "Fuentes mayoritariamente automáticas. Los ajustes manuales son departamentales"
+      },
+      {
+        "id": "R120104",
+        "texto": "Reportes de fuentes automáticas en muchos casos, pero alto grado de manualidad, en ingesta y elaboración final"
+      },
+      {
+        "id": "R120105",
+        "texto": "Mayoría de reportes manuales, tanto desde el punto de vista de las fuentes como de las elaboraciones finales"
+      }
+    ]
+  },
+  {
+    "id": "P1202",
+    "dimension": "Paso 12 de 23 - Reporting regulatorio",
+    "dimension_short": "Reporting regulatorio",
+    "pilar": "Consumo de Información > Reporting",
+    "descripcion": "El reporting es el lenguaje por el que comunicamos los resultados para la mejora de toma de decisiones, no sólo es el qué sino también es el cómo.",
+    "pregunta": "Reusabilidad de datos: para fines de gestión y regulatorios y modelado",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R120201",
+        "texto": "Los datos de gestión forman parte del glosario de términos global, siendo reusados como únicos en todos los casos"
+      },
+      {
+        "id": "R120202",
+        "texto": "Los datos de gestión se reusan para los reportes regulatorios y para algunos modelos avanzados"
+      },
+      {
+        "id": "R120203",
+        "texto": "Muchos datos de gestión se emplean en reportes regulatorios pero aún no para elaborar modelos avanzados"
+      },
+      {
+        "id": "R120204",
+        "texto": "Algunos datos de gestión se emplean en reportes regulatorios, pero no en modelos avanzados"
+      },
+      {
+        "id": "R120205",
+        "texto": "Los datos de gestión y los de regulatorios y exploratorios están totalmente aislados"
+      }
+    ]
+  },
+  {
+    "id": "P1203",
+    "dimension": "Paso 12 de 23 - Reporting regulatorio",
+    "dimension_short": "Reporting regulatorio",
+    "pilar": "Consumo de Información > Reporting",
+    "descripcion": "El reporting es el lenguaje por el que comunicamos los resultados para la mejora de toma de decisiones, no sólo es el qué sino también es el cómo.",
+    "pregunta": "¿Cómo se solucionan los errores encontrados en dashboard?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R120301",
+        "texto": "Las soluciones se aplican globalmente y desde origen, aplicando en su caso soluciones tácticas válidas para todos"
+      },
+      {
+        "id": "R120302",
+        "texto": "Detección ex-ante. Remediaciones en origen de forma conjunta, pero soluciones tácticas se abordan aisladamente"
+      },
+      {
+        "id": "R120303",
+        "texto": "Detección ex-ante. Cada equipo soluciona sus errores individualmente. Posteriormente se intenta conciliar"
+      },
+      {
+        "id": "R120304",
+        "texto": "Detección ex-ante, pero cada equipo soluciona sus errores de forma aislada"
+      },
+      {
+        "id": "R120305",
+        "texto": "Los errores se detectan ex-post, cuando el destanatario final los hace notar"
+      }
+    ]
+  },
+  {
+    "id": "P1204",
+    "dimension": "Paso 12 de 23 - Reporting regulatorio",
+    "dimension_short": "Reporting regulatorio",
+    "pilar": "Consumo de Información > Reporting",
+    "descripcion": "El reporting es el lenguaje por el que comunicamos los resultados para la mejora de toma de decisiones, no sólo es el qué sino también es el cómo.",
+    "pregunta": "¿Se mide la satisfacción y/o impacto de los dashboard?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R120401",
+        "texto": "Se mide por eficiencia (ahorro de costes), acceso a la información (intensidad del uso) y satisfacción"
+      },
+      {
+        "id": "R120402",
+        "texto": "Se mide desde el punto de eficiencia (ahorro de costes) y la satisfacción de los usuarios (encuestas)"
+      },
+      {
+        "id": "R120403",
+        "texto": "Se mide desde el punto de eficiencia (ahorro de costes)"
+      },
+      {
+        "id": "R120404",
+        "texto": "Se mide desde el punto de acceso a los reportes automáticos"
+      },
+      {
+        "id": "R120405",
+        "texto": "En ningún caso"
+      }
+    ]
+  },
+  {
+    "id": "P1205",
+    "dimension": "Paso 12 de 23 - Reporting regulatorio",
+    "dimension_short": "Reporting regulatorio",
+    "pilar": "Consumo de Información > Reporting",
+    "descripcion": "El reporting es el lenguaje por el que comunicamos los resultados para la mejora de toma de decisiones, no sólo es el qué sino también es el cómo.",
+    "pregunta": "¿Qué grado de gobierno tienen los dashboard?",
+    "grupos": [
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R120501",
+        "texto": "Alto, los reportes estratégicos están gobernados y distibuidos de manera centralizada e independiente"
+      },
+      {
+        "id": "R120502",
+        "texto": "Medio-alto. Fuente gobernada pero los reportes salen de las áreas y algunos indicadores varían en su definición"
+      },
+      {
+        "id": "R120503",
+        "texto": "Medio, la fuente esta gobernada pero los reportes salen de las áreas y cada área aplica sus \"filtros\" a las métricas"
+      },
+      {
+        "id": "R120504",
+        "texto": "Bajo, entre las áreas se preguntan para conciliar los principales reportes"
+      },
+      {
+        "id": "R120505",
+        "texto": "Ninguno, cada área gobierna sus propios reportes"
+      }
+    ]
+  },
+  {
+    "id": "P1301",
+    "dimension": "Paso 13 de 23 - Autoconsumo y Data Discovery",
+    "dimension_short": "Autoconsumo y Data Discovery",
+    "pilar": "Consumo de Información > Data Sharing",
+    "descripcion": "La distribución de productos de datos es clave para la construcción de ecosistemas de datos en los que productores y consumidores intercambian información",
+    "pregunta": "¿Qué importancia tiene compartir productos de datos en Hortifrut?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R130101",
+        "texto": "Muy alta, se dispone de un repositorio centralizado y se mide el valor capturado"
+      },
+      {
+        "id": "R130102",
+        "texto": "Alta, se comparten productos de datos, pero sin repositorio centralizado. Se empieza a medir el valor capturado"
+      },
+      {
+        "id": "R130103",
+        "texto": "Se empieza a compartir pero no se ve el valor capturado"
+      },
+      {
+        "id": "R130104",
+        "texto": "Se comparte poco, entre el mismo departamento, se trabaja en silos"
+      },
+      {
+        "id": "R130105",
+        "texto": "Baja, no compartimos productos de datos, se trabaja en silos"
+      }
+    ]
+  },
+  {
+    "id": "P1302",
+    "dimension": "Paso 13 de 23 - Autoconsumo y Data Discovery",
+    "dimension_short": "Autoconsumo y Data Discovery",
+    "pilar": "Consumo de Información > Data Sharing",
+    "descripcion": "La distribución de productos de datos es clave para la construcción de ecosistemas de datos en los que productores y consumidores intercambian información",
+    "pregunta": "¿Cómo se comparten los productos de datos?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R130201",
+        "texto": "Centralizadamente todos los tipos de data product garantizando seguridad y privacidad. Acceso simple (ej APIs)"
+      },
+      {
+        "id": "R130202",
+        "texto": "Existen procesos corporativos (roles y responsabilidades) para compartir datos en función del tipo de productos"
+      },
+      {
+        "id": "R130203",
+        "texto": "Se comparten resultados y se permite el acceso a los datos en los sandbox de los departamentos"
+      },
+      {
+        "id": "R130204",
+        "texto": "Solo se comparten resultados parciales de los productos de datos utilizando herramientas ofimáticas"
+      },
+      {
+        "id": "R130205",
+        "texto": "No se comparten productos de datos"
+      }
+    ]
+  },
+  {
+    "id": "P1303",
+    "dimension": "Paso 13 de 23 - Autoconsumo y Data Discovery",
+    "dimension_short": "Autoconsumo y Data Discovery",
+    "pilar": "Consumo de Información > Data Sharing",
+    "descripcion": "La distribución de productos de datos es clave para la construcción de ecosistemas de datos en los que productores y consumidores intercambian información",
+    "pregunta": "¿Qué nivel de integración de fuentes externas tiene Hortifrut?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R130301",
+        "texto": "Muy alto. Se consumen datos externos que enriquecen todos los productos de datos. Se comparte con el ecosistema"
+      },
+      {
+        "id": "R130302",
+        "texto": "Alto, se conecta con repositorios y se integra con los productos de datos de reporting"
+      },
+      {
+        "id": "R130303",
+        "texto": "Medio, descarga manual de datos externos e integración manual"
+      },
+      {
+        "id": "R130304",
+        "texto": "Bajo se capturan de informes o internet y se integran en los informes a nivel comparativo"
+      },
+      {
+        "id": "R130305",
+        "texto": "No se integran fuentes externas"
+      }
+    ]
+  },
+  {
+    "id": "P1304",
+    "dimension": "Paso 13 de 23 - Autoconsumo y Data Discovery",
+    "dimension_short": "Autoconsumo y Data Discovery",
+    "pilar": "Consumo de Información > Data Sharing",
+    "descripcion": "La distribución de productos de datos es clave para la construcción de ecosistemas de datos en los que productores y consumidores intercambian información",
+    "pregunta": "¿Cuántos productos de datos se comparten en Hortifrut?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R130401",
+        "texto": "Se comparten informes, análisis e insights, data sets y modelos analíticos"
+      },
+      {
+        "id": "R130402",
+        "texto": "Se comparten informes, análisis e insights y data sets"
+      },
+      {
+        "id": "R130403",
+        "texto": "Se comparten informes, análisis e insights"
+      },
+      {
+        "id": "R130404",
+        "texto": "Sólo se comparten informes por vías ofimáticas"
+      },
+      {
+        "id": "R130405",
+        "texto": "Ningún no se comparten productos de datos"
+      }
+    ]
+  },
+  {
+    "id": "P1305",
+    "dimension": "Paso 13 de 23 - Autoconsumo y Data Discovery",
+    "dimension_short": "Autoconsumo y Data Discovery",
+    "pilar": "Consumo de Información > Data Sharing",
+    "descripcion": "La distribución de productos de datos es clave para la construcción de ecosistemas de datos en los que productores y consumidores intercambian información",
+    "pregunta": "¿Qué herramientas tiene la Hortifrut para compartir datos?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G6",
+      "G7a",
+      "G7b"
+    ],
+    "opciones": [
+      {
+        "id": "R130501",
+        "texto": "El Data Product Market Place comparte intra-organización y externamente, y permite controlar gasto y consumo"
+      },
+      {
+        "id": "R130502",
+        "texto": "Data Product Market Place permite compartir internamente data products (productores) y suscribirse (consumidores)"
+      },
+      {
+        "id": "R130503",
+        "texto": "Se comparten reports y datasets utilizando las herramientas de visualización corporativas"
+      },
+      {
+        "id": "R130504",
+        "texto": "Se usan herramientas ofimáticas"
+      },
+      {
+        "id": "R130505",
+        "texto": "Ninguna no se comparten productos de datos"
+      }
+    ]
+  },
+  {
+    "id": "P1401",
+    "dimension": "Paso 14 de 23 - Construcción y gestión de modelos",
+    "dimension_short": "Construcción y gestión de modelos",
+    "pilar": "Consumo de Información > Autoconsumo y Data Discovery",
+    "descripcion": "Es la piedra angular de la democratización del dato: la capitalización del conocimiento del usuario a través de los datos puestos a su disposición.",
+    "pregunta": "¿Qué grado de centralización tiene la información de explotación? (no tiene que ser física)",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R140101",
+        "texto": "La capa de explotación está centralizada al 100% (ya sea físicamente o virtualmente). Se contempla el Data Fabric"
+      },
+      {
+        "id": "R140102",
+        "texto": "La capa de explotación está centralizada al 75% (ya sea físicamente o virtualmente)"
+      },
+      {
+        "id": "R140103",
+        "texto": "La capa de explotación está centralizada al 50% (ya sea físicamente o virtualmente)"
+      },
+      {
+        "id": "R140104",
+        "texto": "La capa de explotación está centralizada al 25% (ya sea físicamente o virtualmente)"
+      },
+      {
+        "id": "R140105",
+        "texto": "La organización tiene silos por áreas sin un diccionario o modelo de explotación claro"
+      }
+    ]
+  },
+  {
+    "id": "P1402",
+    "dimension": "Paso 14 de 23 - Construcción y gestión de modelos",
+    "dimension_short": "Construcción y gestión de modelos",
+    "pilar": "Consumo de Información > Autoconsumo y Data Discovery",
+    "descripcion": "Es la piedra angular de la democratización del dato: la capitalización del conocimiento del usuario a través de los datos puestos a su disposición.",
+    "pregunta": "¿Qué tiempo se invierte para realizar análisis ad-hoc?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R140201",
+        "texto": "Bajo , El analista accede a la informacion de manera transversal desde la herramienta corporativa"
+      },
+      {
+        "id": "R140202",
+        "texto": "Medio-bajo, más del 50% de la información centralizada, pero hay que añadir adicional en la herramienta corporativa"
+      },
+      {
+        "id": "R140203",
+        "texto": "Medio, más del 50% de la información centralizada, pero hay que añadir adicional y no hay una herramienta clara"
+      },
+      {
+        "id": "R140204",
+        "texto": "Medio-Alto, hay determinada información centralizada, pero hay que añadir adicional y no hay una herramienta clara"
+      },
+      {
+        "id": "R140205",
+        "texto": "Alto, es necesario buscar información y juntarla"
+      }
+    ]
+  },
+  {
+    "id": "P1403",
+    "dimension": "Paso 14 de 23 - Construcción y gestión de modelos",
+    "dimension_short": "Construcción y gestión de modelos",
+    "pilar": "Consumo de Información > Autoconsumo y Data Discovery",
+    "descripcion": "Es la piedra angular de la democratización del dato: la capitalización del conocimiento del usuario a través de los datos puestos a su disposición.",
+    "pregunta": "¿Qué grado de autonomía tienen los analistas?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R140301",
+        "texto": "Alto. Acceso a toda información, pueden aprovisionar información ágilmente (gobernadamente) y generar reports"
+      },
+      {
+        "id": "R140302",
+        "texto": "Medio-alto, requieren de SSII para aprovisionar información pero pueden crear vistas, reports y métricas"
+      },
+      {
+        "id": "R140303",
+        "texto": "Medio, requieren de SSII para aprovisionar la información, pero tienen autonomía para generar reports y métricas"
+      },
+      {
+        "id": "R140304",
+        "texto": "Medio-Bajo, requieren de SSII para aprovisionar la información, pero tienen autonomía para generar reports"
+      },
+      {
+        "id": "R140305",
+        "texto": "Bajo, requieren de SSII para aprovisionar la información y generar los reports"
+      }
+    ]
+  },
+  {
+    "id": "P1404",
+    "dimension": "Paso 14 de 23 - Construcción y gestión de modelos",
+    "dimension_short": "Construcción y gestión de modelos",
+    "pilar": "Consumo de Información > Autoconsumo y Data Discovery",
+    "descripcion": "Es la piedra angular de la democratización del dato: la capitalización del conocimiento del usuario a través de los datos puestos a su disposición.",
+    "pregunta": "¿Qué grado de cobertura da el modelo de datos a la explotación y al autoconsumo?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R140401",
+        "texto": "Alta, modelo pensado para explotar y dar cobertura al BI y Analítica Avanzada, cubre 80% de los casos de uso"
+      },
+      {
+        "id": "R140402",
+        "texto": "Media-alta, el modelo esta pensado para explotar y da cobertura al BI, cubre el 60% de los casos de uso"
+      },
+      {
+        "id": "R140403",
+        "texto": "Media, la información está disponible pero el modelo es complejo de explotar"
+      },
+      {
+        "id": "R140404",
+        "texto": "Media-baja, primeras reglas para adaptar la explotación"
+      },
+      {
+        "id": "R140405",
+        "texto": "Baja, se ha pensado desde la información generada por los operacionales"
+      }
+    ]
+  },
+  {
+    "id": "P1405",
+    "dimension": "Paso 14 de 23 - Construcción y gestión de modelos",
+    "dimension_short": "Construcción y gestión de modelos",
+    "pilar": "Consumo de Información > Autoconsumo y Data Discovery",
+    "descripcion": "Es la piedra angular de la democratización del dato: la capitalización del conocimiento del usuario a través de los datos puestos a su disposición.",
+    "pregunta": "¿Contamos con un modelo operativo para el autoconsumo?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R140501",
+        "texto": "Total, el modelo de gobierno contempla el modelo operativo de autoconsumo y las herramientas que le dan soporte"
+      },
+      {
+        "id": "R140502",
+        "texto": "Ampliamente, hay unos principios y modelo funcionando, en proceso de eliminación de silos"
+      },
+      {
+        "id": "R140503",
+        "texto": "Parcialmente, el modelo está definido por proceso y por áreas, en proceso de implantación"
+      },
+      {
+        "id": "R140504",
+        "texto": "Escasamente, cada área tiene su modelo y su silo de información"
+      },
+      {
+        "id": "R140505",
+        "texto": "No, cada área usuaria genera sus propios análisis sin un modelo operativo"
+      }
+    ]
+  },
+  {
+    "id": "P1501",
+    "dimension": "Paso 15 de 23 - Industrialización de modelos",
+    "dimension_short": "Industrialización de modelos",
+    "pilar": "Analítica Avanzada > Desarrollo de la Analítica Avanzada",
+    "descripcion": "Creación de modelos y seguimiento avanzado del ciclo de vida completo.",
+    "pregunta": "Los equipos que desarrollan los modelos, ¿se encuentran gobernados de alguna manera?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R150101",
+        "texto": "Los equipos se encuentran bajo un modelo federado gobernado. Hub and spoke"
+      },
+      {
+        "id": "R150102",
+        "texto": "Se ha avanzado hacia un modelo hub and spoke, pero todavia hay equipos que no se encuentran gestionados"
+      },
+      {
+        "id": "R150103",
+        "texto": "Todos los desarrollos se ejecutan desde un equipo centralizado"
+      },
+      {
+        "id": "R150104",
+        "texto": "Cada área o dirección gestiona sus equipos de forma autonoma"
+      },
+      {
+        "id": "R150105",
+        "texto": "No hay ningun modelo, los equipos que desarrollan no se encuentran gobernados"
+      }
+    ]
+  },
+  {
+    "id": "P1502",
+    "dimension": "Paso 15 de 23 - Industrialización de modelos",
+    "dimension_short": "Industrialización de modelos",
+    "pilar": "Analítica Avanzada > Desarrollo de la Analítica Avanzada",
+    "descripcion": "Creación de modelos y seguimiento avanzado del ciclo de vida completo.",
+    "pregunta": "¿Qué porcentaje de los modelos que se desarrollan son puestos en producción?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R150201",
+        "texto": "Por encima del 80% de los modelos se encuentran en producción"
+      },
+      {
+        "id": "R150202",
+        "texto": "Alrededor del 70% de los modelos se encuentran en producción"
+      },
+      {
+        "id": "R150203",
+        "texto": "El 50% de los modelos se encuentran en producción"
+      },
+      {
+        "id": "R150204",
+        "texto": "El 35% de los modelos se encuentran en producción"
+      },
+      {
+        "id": "R150205",
+        "texto": "Menos del 25% de los modelos se encuentran en producción"
+      }
+    ]
+  },
+  {
+    "id": "P1503",
+    "dimension": "Paso 15 de 23 - Industrialización de modelos",
+    "dimension_short": "Industrialización de modelos",
+    "pilar": "Analítica Avanzada > Desarrollo de la Analítica Avanzada",
+    "descripcion": "Creación de modelos y seguimiento avanzado del ciclo de vida completo.",
+    "pregunta": "¿Qué porcentaje de los posibles casos de uso cuentan actualmente con un modelo en producción?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R150301",
+        "texto": "Más del 75%"
+      },
+      {
+        "id": "R150302",
+        "texto": "Entre 50% y 75%"
+      },
+      {
+        "id": "R150303",
+        "texto": "Entre 30% y 50%"
+      },
+      {
+        "id": "R150304",
+        "texto": "Entre 15% y 30%"
+      },
+      {
+        "id": "R150305",
+        "texto": "Menos de 15%"
+      }
+    ]
+  },
+  {
+    "id": "P1504",
+    "dimension": "Paso 15 de 23 - Industrialización de modelos",
+    "dimension_short": "Industrialización de modelos",
+    "pilar": "Analítica Avanzada > Desarrollo de la Analítica Avanzada",
+    "descripcion": "Creación de modelos y seguimiento avanzado del ciclo de vida completo.",
+    "pregunta": "¿Qué porcentaje de su tiempo dedican los data scientists a preparar los datos necesarios?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R150401",
+        "texto": "Menos del 10%"
+      },
+      {
+        "id": "R150402",
+        "texto": "Entre el 10% y el 30%"
+      },
+      {
+        "id": "R150403",
+        "texto": "Entre el 30% y el 50%"
+      },
+      {
+        "id": "R150404",
+        "texto": "Entre el 50% y el 70%"
+      },
+      {
+        "id": "R150405",
+        "texto": "Mas del 70%"
+      }
+    ]
+  },
+  {
+    "id": "P1505",
+    "dimension": "Paso 15 de 23 - Industrialización de modelos",
+    "dimension_short": "Industrialización de modelos",
+    "pilar": "Analítica Avanzada > Desarrollo de la Analítica Avanzada",
+    "descripcion": "Creación de modelos y seguimiento avanzado del ciclo de vida completo.",
+    "pregunta": "¿La gestión de los modelos se realiza de manera centralizada?",
+    "grupos": [
+      "G4",
+      "G5",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R150501",
+        "texto": "Si, hay un equipo centralizado que se encarga de la gestión"
+      },
+      {
+        "id": "R150502",
+        "texto": "Los modelos se comienzan a gestionar de manera centralizada pero no se encuentra extendido a toda la compañía"
+      },
+      {
+        "id": "R150503",
+        "texto": "No hay un equipo centralizado, pero los modelos se gestionan de forma particular por cada área"
+      },
+      {
+        "id": "R150504",
+        "texto": "Algunas áreas empiezan a gestionar sus modelos pero sin ponerse de acuerdo en ello"
+      },
+      {
+        "id": "R150505",
+        "texto": "No se gestionan los modelos"
+      }
+    ]
+  },
+  {
+    "id": "P1601",
+    "dimension": "Paso 16 de 23 - Diseño de la Estrategia del Dato",
+    "dimension_short": "Diseño de la Estrategia del Dato",
+    "pilar": "Analítica Avanzada > Monitorización de modelos",
+    "descripcion": "Comprobamos el rendimiento de los modelos, su uso, su consumo de recursos y el impacto en negocio.",
+    "pregunta": "¿Cómo se monitorean las métricas de los modelos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R160101",
+        "texto": "Monitorización y alarma automático y gobernado. Herramienta recomienda reentreno y hace challenge autoML a modelos"
+      },
+      {
+        "id": "R160102",
+        "texto": "Monitorización automática de métricas de los modelos, con alarmado e integración con la herramienta de gobierno"
+      },
+      {
+        "id": "R160103",
+        "texto": "Las métricas están gobernadas y accesibles. Se verifican de manera regular"
+      },
+      {
+        "id": "R160104",
+        "texto": "Hay un standard de métricas a sacar para poder comparar, pero la monitorización es ad-hoc"
+      },
+      {
+        "id": "R160105",
+        "texto": "Cada Data Scientist define sus métricas y las revisa cuando lo crea necesario"
+      }
+    ]
+  },
+  {
+    "id": "P1602",
+    "dimension": "Paso 16 de 23 - Diseño de la Estrategia del Dato",
+    "dimension_short": "Diseño de la Estrategia del Dato",
+    "pilar": "Analítica Avanzada > Monitorización de modelos",
+    "descripcion": "Comprobamos el rendimiento de los modelos, su uso, su consumo de recursos y el impacto en negocio.",
+    "pregunta": "¿Se estudian los segos de los datos y de los resultados de los modelos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R160201",
+        "texto": "Además de monitorización de sesgos automática, hay un alarmado y un comité de ética para aprobar los mismos"
+      },
+      {
+        "id": "R160202",
+        "texto": "La monitorización de los sesgos en los datos y predicciones está automatizado"
+      },
+      {
+        "id": "R160203",
+        "texto": "Además de los datos de entrenamiento, vamos a verificar que el resultado de las predicciones no tiene sesgo"
+      },
+      {
+        "id": "R160204",
+        "texto": "Nos aseguramos que las características de los datos de entrenamiento corresponden con la población"
+      },
+      {
+        "id": "R160205",
+        "texto": "Para qué, los datos de entrenamiento se cogen de manera aleatoria"
+      }
+    ]
+  },
+  {
+    "id": "P1603",
+    "dimension": "Paso 16 de 23 - Diseño de la Estrategia del Dato",
+    "dimension_short": "Diseño de la Estrategia del Dato",
+    "pilar": "Analítica Avanzada > Monitorización de modelos",
+    "descripcion": "Comprobamos el rendimiento de los modelos, su uso, su consumo de recursos y el impacto en negocio.",
+    "pregunta": "¿Cómo se monitorea la evolución de las variables de los modelos en el tiempo?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R160301",
+        "texto": "Tenemos un alarmado que nos avisa cuando hay un cambio en las variables de nuestros modelos"
+      },
+      {
+        "id": "R160302",
+        "texto": "La monitorización de las variables está automatizada"
+      },
+      {
+        "id": "R160303",
+        "texto": "Tenemos una tarea trimestral de monitorización que intentantamos cumplir"
+      },
+      {
+        "id": "R160304",
+        "texto": "Si vemos que la campaña genera menos retornos, vamos a ver la evolución de las variables"
+      },
+      {
+        "id": "R160305",
+        "texto": "No se monitoriza, solo analizamos si se queja negocio"
+      }
+    ]
+  },
+  {
+    "id": "P1604",
+    "dimension": "Paso 16 de 23 - Diseño de la Estrategia del Dato",
+    "dimension_short": "Diseño de la Estrategia del Dato",
+    "pilar": "Analítica Avanzada > Monitorización de modelos",
+    "descripcion": "Comprobamos el rendimiento de los modelos, su uso, su consumo de recursos y el impacto en negocio.",
+    "pregunta": "¿Cómo se mide el valor que aportan los modelos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R160401",
+        "texto": "Formulas de medición estables y monitorización automática de los grupos de control para verificar su legitimidad"
+      },
+      {
+        "id": "R160402",
+        "texto": "Las fórmulas de medición del valor con grupos de control son estables"
+      },
+      {
+        "id": "R160403",
+        "texto": "Se han definido grupos de control  pero la imputación del valor generado cambia todos los años"
+      },
+      {
+        "id": "R160404",
+        "texto": "Se mide el impacto de las campañas, pero no hay una parte del valor imputable al modelo"
+      },
+      {
+        "id": "R160405",
+        "texto": "No se mide el retorno"
+      }
+    ]
+  },
+  {
+    "id": "P1605",
+    "dimension": "Paso 16 de 23 - Diseño de la Estrategia del Dato",
+    "dimension_short": "Diseño de la Estrategia del Dato",
+    "pilar": "Analítica Avanzada > Monitorización de modelos",
+    "descripcion": "Comprobamos el rendimiento de los modelos, su uso, su consumo de recursos y el impacto en negocio.",
+    "pregunta": "¿Cómo se monitorea el consumo de recursos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R160501",
+        "texto": "El consumo de recursos de los modelos está optimizado desde el diseño, monitorizado y alarmado"
+      },
+      {
+        "id": "R160502",
+        "texto": "El consumo de recursos de los modelos se hace de manera automática y con alarmado"
+      },
+      {
+        "id": "R160503",
+        "texto": "Hay monitorización automática del consumo de recursos de cada modelo"
+      },
+      {
+        "id": "R160504",
+        "texto": "La monitorización del consumo de recursos de modelos se realiza ad-hoc"
+      },
+      {
+        "id": "R160505",
+        "texto": "Se monitoriza el consumo de las máquinas donde corren los modelos"
+      }
+    ]
+  },
+  {
+    "id": "P1701",
+    "dimension": "Paso 17 de 23 - Privacidad",
+    "dimension_short": "Privacidad",
+    "pilar": "Analítica Avanzada > Industrialización e integración de modelos",
+    "descripcion": "Lograr la automatización, reusabilidad y gestión estandarizada de modelos.",
+    "pregunta": "¿Cuál es el grado de documentación de los modelos: inventario, diccionario, traza, responsables, reusabilidad...?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R170101",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R170102",
+        "texto": "Alto"
+      },
+      {
+        "id": "R170103",
+        "texto": "Medio"
+      },
+      {
+        "id": "R170104",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R170105",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P1702",
+    "dimension": "Paso 17 de 23 - Privacidad",
+    "dimension_short": "Privacidad",
+    "pilar": "Analítica Avanzada > Industrialización e integración de modelos",
+    "descripcion": "Lograr la automatización, reusabilidad y gestión estandarizada de modelos.",
+    "pregunta": "¿El desarrollo de los modelos se realiza siguiendo unas políticas determinadas?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R170201",
+        "texto": "Sí, hay unas politicas que todos los que desarrollan los modelos han de seguir"
+      },
+      {
+        "id": "R170202",
+        "texto": "Hay unas políticas definidas pero no se siguen por todos los equipos"
+      },
+      {
+        "id": "R170203",
+        "texto": "Hay una política pero solo se sigue por algunos equipos"
+      },
+      {
+        "id": "R170204",
+        "texto": "Se está comenzando a trabajar en una política pero no está extendida"
+      },
+      {
+        "id": "R170205",
+        "texto": "No hay ninguna política definida"
+      }
+    ]
+  },
+  {
+    "id": "P1703",
+    "dimension": "Paso 17 de 23 - Privacidad",
+    "dimension_short": "Privacidad",
+    "pilar": "Analítica Avanzada > Industrialización e integración de modelos",
+    "descripcion": "Lograr la automatización, reusabilidad y gestión estandarizada de modelos.",
+    "pregunta": "¿Cuánto tiempo tarda un modelo probado en pasar a producción?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R170301",
+        "texto": "Menos de un mes"
+      },
+      {
+        "id": "R170302",
+        "texto": "Entre uno y tres meses"
+      },
+      {
+        "id": "R170303",
+        "texto": "Entre tres y cinco meses"
+      },
+      {
+        "id": "R170304",
+        "texto": "Entre cinco y siete meses"
+      },
+      {
+        "id": "R170305",
+        "texto": "Mas de 7 meses"
+      }
+    ]
+  },
+  {
+    "id": "P1704",
+    "dimension": "Paso 17 de 23 - Privacidad",
+    "dimension_short": "Privacidad",
+    "pilar": "Analítica Avanzada > Industrialización e integración de modelos",
+    "descripcion": "Lograr la automatización, reusabilidad y gestión estandarizada de modelos.",
+    "pregunta": "¿Se monitorizan los modelos para conocer su rendimiento? ¿Se reentrenan?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R170401",
+        "texto": "Si, los modelos se monitorizan y se reentrenan periódicamente"
+      },
+      {
+        "id": "R170402",
+        "texto": "Los modelos se monitorizan pero no hay una periodicidad en el reentrenamiento"
+      },
+      {
+        "id": "R170403",
+        "texto": "Gran parte de los modelos se monitorizan pero pocos se reentrenan"
+      },
+      {
+        "id": "R170404",
+        "texto": "Solo unos pocos modelos se monitorizan"
+      },
+      {
+        "id": "R170405",
+        "texto": "No, ni se monitorizan ni se reentrenan"
+      }
+    ]
+  },
+  {
+    "id": "P1705",
+    "dimension": "Paso 17 de 23 - Privacidad",
+    "dimension_short": "Privacidad",
+    "pilar": "Analítica Avanzada > Industrialización e integración de modelos",
+    "descripcion": "Lograr la automatización, reusabilidad y gestión estandarizada de modelos.",
+    "pregunta": "¿Se comparte el conocimiento de los modelos entre distintas áreas?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5"
+    ],
+    "opciones": [
+      {
+        "id": "R170501",
+        "texto": "Si, todo el conocimiento se encuentra centralizado y todas las áreas conocen su contenido"
+      },
+      {
+        "id": "R170502",
+        "texto": "Una gran parte de los modelos y su conocimiento se encuentran centralizados, por lo que se comparte"
+      },
+      {
+        "id": "R170503",
+        "texto": "Se comienza a centralizar el conocimiento, pero gran parte de las áreas lo gestionan de forma particular"
+      },
+      {
+        "id": "R170504",
+        "texto": "El conocimiento de los modelos únicamente es conocido en el equipo o área que lo ha desarrollado"
+      },
+      {
+        "id": "R170505",
+        "texto": "El conocimiento únicamente está en la persona que lo ha desarrollado, no se comparte"
+      }
+    ]
+  },
+  {
+    "id": "P1801",
+    "dimension": "Paso 18 de 23 - Modelos de Valoración del Dato",
+    "dimension_short": "Modelos de Valoración del Dato",
+    "pilar": "Estrategia del Dato > Diseño de la estrategia del Dato",
+    "descripcion": "De usar los datos para la estrategia, a definir una estrategia del dato, incardinada en la estrategia de la compañía.",
+    "pregunta": "¿La estrategia se inicia con visión tecnológica (qué podemos hacer) o de estrategia global (qué queremos hacer)?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R180101",
+        "texto": "La estrategia del dato es una parte de la estrategia global"
+      },
+      {
+        "id": "R180102",
+        "texto": "Existe una estrategia del dato global, si bien algunos negocios aún no están incorporados a la misma"
+      },
+      {
+        "id": "R180103",
+        "texto": "Los negocios más avanzados fijan su propia estrategia. El resto se marca desde IT"
+      },
+      {
+        "id": "R180104",
+        "texto": "La estrategia del dato se marca desde IT"
+      },
+      {
+        "id": "R180105",
+        "texto": "No hay estrategia del dato"
+      }
+    ]
+  },
+  {
+    "id": "P1802",
+    "dimension": "Paso 18 de 23 - Modelos de Valoración del Dato",
+    "dimension_short": "Modelos de Valoración del Dato",
+    "pilar": "Estrategia del Dato > Diseño de la estrategia del Dato",
+    "descripcion": "De usar los datos para la estrategia, a definir una estrategia del dato, incardinada en la estrategia de la compañía.",
+    "pregunta": "Diseño de productos y servicios en función de la idoneidad de los datos generados, y no solo de la operatividad",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R180201",
+        "texto": "Todos los productos y servicios siguen los principios dataFirst"
+      },
+      {
+        "id": "R180202",
+        "texto": "Al menos los productos y servicios estratégicos siguen los principios dataFirst definidos"
+      },
+      {
+        "id": "R180203",
+        "texto": "Existen principios de diseño de productos/servicios con foco en datos, dependiendo de la madurez del área usuaria"
+      },
+      {
+        "id": "R180204",
+        "texto": "Existen principios de diseño de productos y servicios con foco en datos, pero se aplican minoritariamente"
+      },
+      {
+        "id": "R180205",
+        "texto": "Los productos y servicios no se diseñan con foco en los datos"
+      }
+    ]
+  },
+  {
+    "id": "P1803",
+    "dimension": "Paso 18 de 23 - Modelos de Valoración del Dato",
+    "dimension_short": "Modelos de Valoración del Dato",
+    "pilar": "Estrategia del Dato > Diseño de la estrategia del Dato",
+    "descripcion": "De usar los datos para la estrategia, a definir una estrategia del dato, incardinada en la estrategia de la compañía.",
+    "pregunta": "¿Cuál es el grado de conciencia de la relevancia del los datos en Hortifrut?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R180301",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R180302",
+        "texto": "Alto"
+      },
+      {
+        "id": "R180303",
+        "texto": "Medio"
+      },
+      {
+        "id": "R180304",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R180305",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P1804",
+    "dimension": "Paso 18 de 23 - Modelos de Valoración del Dato",
+    "dimension_short": "Modelos de Valoración del Dato",
+    "pilar": "Estrategia del Dato > Diseño de la estrategia del Dato",
+    "descripcion": "De usar los datos para la estrategia, a definir una estrategia del dato, incardinada en la estrategia de la compañía.",
+    "pregunta": "¿Contamos con planes de talento digital (formación, planes de carrera, atracción/retención, movilidad interna...)?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R180401",
+        "texto": "Hay una estrategia de talento digital englobada en la estrategia global, basada en un assessment de talento"
+      },
+      {
+        "id": "R180402",
+        "texto": "Plan de formación digital y de retención/atracción de talento, no totalmente coordinado con la estrategia del dato"
+      },
+      {
+        "id": "R180403",
+        "texto": "Plan de formación general con planes de talento parciales. No cubren todo: retención, plan de carrera, movilidad…"
+      },
+      {
+        "id": "R180404",
+        "texto": "Formaciones departamentales en función de necesidades de cada ámbito, luego trasladadas a usuarios no peticionarios"
+      },
+      {
+        "id": "R180405",
+        "texto": "No existen"
+      }
+    ]
+  },
+  {
+    "id": "P1805",
+    "dimension": "Paso 18 de 23 - Modelos de Valoración del Dato",
+    "dimension_short": "Modelos de Valoración del Dato",
+    "pilar": "Estrategia del Dato > Diseño de la estrategia del Dato",
+    "descripcion": "De usar los datos para la estrategia, a definir una estrategia del dato, incardinada en la estrategia de la compañía.",
+    "pregunta": "Nivel de globalidad de la estrategia del dato, en términos de generalización funcional y esponsorización",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R180501",
+        "texto": "La estrategia del dato global está esponsorizada por el CEO"
+      },
+      {
+        "id": "R180502",
+        "texto": "Existe una estrategia del dato global y es liderada por un Directivo de Alta Dirección"
+      },
+      {
+        "id": "R180503",
+        "texto": "Existe una estrategia del dato parcial para algunos Negocios concretos"
+      },
+      {
+        "id": "R180504",
+        "texto": "Se está trabajando en la definición de la estrategia del dato"
+      },
+      {
+        "id": "R180505",
+        "texto": "No hay una estrategia de datos definida"
+      }
+    ]
+  },
+  {
+    "id": "P1901",
+    "dimension": "Paso 19 de 23 - Monetización del Dato",
+    "dimension_short": "Monetización del Dato",
+    "pilar": "Estrategia del Dato > Generación y medición del valor",
+    "descripcion": "La consideración del dato como Activo supone su empleo como palanca para generar valor, para lo cual debemos ser capaces de medir dicho a través de la relación entre datos, casos de uso y KPIs estratégicos.",
+    "pregunta": "¿Están los casos de uso vinculados a la estrategia global?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G7b",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R190101",
+        "texto": "Todos los casos de uso vinculados a un KPI estratégico con medición de impacto estimado y monitorización posterior"
+      },
+      {
+        "id": "R190102",
+        "texto": "La mayoría de los casos de uso se vinculan a KPIs estratégicos con medición de impacto"
+      },
+      {
+        "id": "R190103",
+        "texto": "Algunos casos de uso se vinculan a los KPIs estratégicos sin medición de impacto"
+      },
+      {
+        "id": "R190104",
+        "texto": "Hay una vinculación conceptual a los planes de negocio de la compañía"
+      },
+      {
+        "id": "R190105",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P1902",
+    "dimension": "Paso 19 de 23 - Monetización del Dato",
+    "dimension_short": "Monetización del Dato",
+    "pilar": "Estrategia del Dato > Generación y medición del valor",
+    "descripcion": "La consideración del dato como Activo supone su empleo como palanca para generar valor, para lo cual debemos ser capaces de medir dicho a través de la relación entre datos, casos de uso y KPIs estratégicos.",
+    "pregunta": "¿Contamos con KPIs que midan el éxito de la generación de valor con datos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G7b",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R190201",
+        "texto": "Existen KPIs centralizados (en CFO o similar), aplicables a la totalidad de los ámbitos y medidos ex-ante (previsión y objetivo) y ex-post (seguimiento)"
+      },
+      {
+        "id": "R190202",
+        "texto": "KPIs generales ex-ante y ex-post, aplicables parcialmente por algunos ámbitos"
+      },
+      {
+        "id": "R190203",
+        "texto": "KPIs departamentales ex-ante y ex-post, sin chequeo objetivo ni aplicación generalizada"
+      },
+      {
+        "id": "R190204",
+        "texto": "KPIs departamentales sin chequeo objetivo ni monitorización posterior"
+      },
+      {
+        "id": "R190205",
+        "texto": "No existen KPIs"
+      }
+    ]
+  },
+  {
+    "id": "P1903",
+    "dimension": "Paso 19 de 23 - Monetización del Dato",
+    "dimension_short": "Monetización del Dato",
+    "pilar": "Estrategia del Dato > Generación y medición del valor",
+    "descripcion": "La consideración del dato como Activo supone su empleo como palanca para generar valor, para lo cual debemos ser capaces de medir dicho a través de la relación entre datos, casos de uso y KPIs estratégicos.",
+    "pregunta": "¿Contamos con un modelo de valoración del datos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G7b",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R190301",
+        "texto": "Existe un modelo global para toda la organización con KPIs globales relacionados con la estrategia de la compañía"
+      },
+      {
+        "id": "R190302",
+        "texto": "Existen modelos parciales por áreas, que incorporan tanto ingresos como costes"
+      },
+      {
+        "id": "R190303",
+        "texto": "Existen KPIs de medición de ingresos/aportación de valor de iniciativas informacionales"
+      },
+      {
+        "id": "R190304",
+        "texto": "Existen KPIs de medición de costes de iniciativas informacionales"
+      },
+      {
+        "id": "R190305",
+        "texto": "No existen"
+      }
+    ]
+  },
+  {
+    "id": "P1904",
+    "dimension": "Paso 19 de 23 - Monetización del Dato",
+    "dimension_short": "Monetización del Dato",
+    "pilar": "Estrategia del Dato > Generación y medición del valor",
+    "descripcion": "La consideración del dato como Activo supone su empleo como palanca para generar valor, para lo cual debemos ser capaces de medir dicho a través de la relación entre datos, casos de uso y KPIs estratégicos.",
+    "pregunta": "¿Se prioriza la demanda de información en función del valor esperado?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G7b",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R190401",
+        "texto": "Toda la demanda informacional se prioriza a través de KPIs homogéneos de valor, controlados por el CFO/CEO"
+      },
+      {
+        "id": "R190402",
+        "texto": "Se prioriza por análisis coste-beneficio, pero KPIs no definidos objetivamente ni validados por área separada"
+      },
+      {
+        "id": "R190403",
+        "texto": "Se prioriza en función del coste de desarrollo y se consensúa el valor esperado informalmente"
+      },
+      {
+        "id": "R190404",
+        "texto": "La demanda informacional solo se prioriza en función del coste de desarrollo"
+      },
+      {
+        "id": "R190405",
+        "texto": "No, el proceso de demanda informacional no se realiza por esos criterios"
+      }
+    ]
+  },
+  {
+    "id": "P1905",
+    "dimension": "Paso 19 de 23 - Monetización del Dato",
+    "dimension_short": "Monetización del Dato",
+    "pilar": "Estrategia del Dato > Generación y medición del valor",
+    "descripcion": "La consideración del dato como Activo supone su empleo como palanca para generar valor, para lo cual debemos ser capaces de medir dicho a través de la relación entre datos, casos de uso y KPIs estratégicos.",
+    "pregunta": "¿Contamos con un ROI de los proyectos de datos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G7b",
+      "G8b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R190501",
+        "texto": "Todo proyecto informacional debe ir acompañado de un ROI completo, objetivo y validado por CFO/CEO"
+      },
+      {
+        "id": "R190502",
+        "texto": "Solo los proyectos informacionales más relevantes disponen de un ROI completo"
+      },
+      {
+        "id": "R190503",
+        "texto": "Proyectos informacionales con coste y aportación de valor estimados, pero KPIs no homogéneos ni validados"
+      },
+      {
+        "id": "R190504",
+        "texto": "Proyectos informacionales con coste estimado pero la aportación de valor es subjetiva y no es informada"
+      },
+      {
+        "id": "R190505",
+        "texto": "No es una métrica empleada en las acciones informacionales"
+      }
+    ]
+  },
+  {
+    "id": "P2001",
+    "dimension": "Paso 20 de 23 - Ética del Dato",
+    "dimension_short": "Ética del Dato",
+    "pilar": "Estrategia del Dato > Cultura Data-Driven",
+    "descripcion": "El cemento que hace sostenible la estrategia del dato.",
+    "pregunta": "¿Qué tan de conciencia tiene Hortifrut sobre la propiedad del datos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R200101",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R200102",
+        "texto": "Alto"
+      },
+      {
+        "id": "R200103",
+        "texto": "Medio"
+      },
+      {
+        "id": "R200104",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R200105",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P2002",
+    "dimension": "Paso 20 de 23 - Ética del Dato",
+    "dimension_short": "Ética del Dato",
+    "pilar": "Estrategia del Dato > Cultura Data-Driven",
+    "descripcion": "El cemento que hace sostenible la estrategia del dato.",
+    "pregunta": "¿Qué tan extendida está la toma de decisiones con datos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R200201",
+        "texto": "Decisiones basadas en datos con medición de resultados ex-ante y ex-post por el ámbito y áreas independientes (CFO)"
+      },
+      {
+        "id": "R200202",
+        "texto": "Toma de decisiones basada en datos en casi todas las áreas, sin seguimiento centralizado ex-ante ni ex-post"
+      },
+      {
+        "id": "R200203",
+        "texto": "Toma de decisiones basada en datos se generaliza, pero solo en aquéllas áreas que generalmente venían usando datos"
+      },
+      {
+        "id": "R200204",
+        "texto": "Algunas áreas comienzan a tomar decisiones basadas en datos"
+      },
+      {
+        "id": "R200205",
+        "texto": "Las decisiones se toman mayoritariamente sobre la base de la experiencia de negocio"
+      }
+    ]
+  },
+  {
+    "id": "P2003",
+    "dimension": "Paso 20 de 23 - Ética del Dato",
+    "dimension_short": "Ética del Dato",
+    "pilar": "Estrategia del Dato > Cultura Data-Driven",
+    "descripcion": "El cemento que hace sostenible la estrategia del dato.",
+    "pregunta": "¿Qué grado de conciencia tienen los usuarios sobre las posibilidades del datos para sus respectivos negocios?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R200301",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R200302",
+        "texto": "Alto"
+      },
+      {
+        "id": "R200303",
+        "texto": "Medio"
+      },
+      {
+        "id": "R200304",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R200305",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P2004",
+    "dimension": "Paso 20 de 23 - Ética del Dato",
+    "dimension_short": "Ética del Dato",
+    "pilar": "Estrategia del Dato > Cultura Data-Driven",
+    "descripcion": "El cemento que hace sostenible la estrategia del dato.",
+    "pregunta": "¿Qué papel juega la Primera Línea en la generación de una cultura data-driven?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R200401",
+        "texto": "La Alta Dirección establece la estrategia global y transversal para una cultura del dato y monitoriza su evolución"
+      },
+      {
+        "id": "R200402",
+        "texto": "La Alta Dirección establece planes de formación, comunicación y talento con seguimiento de avances de cada ámbito"
+      },
+      {
+        "id": "R200403",
+        "texto": "La Alta Dirección establece planes de formación en data y realiza seguimiento de avances individuales por ámbito"
+      },
+      {
+        "id": "R200404",
+        "texto": "La Alta Dirección fomenta el uso de los datos en cada unidad, sin una estrategia común"
+      },
+      {
+        "id": "R200405",
+        "texto": "Ninguno"
+      }
+    ]
+  },
+  {
+    "id": "P2005",
+    "dimension": "Paso 20 de 23 - Ética del Dato",
+    "dimension_short": "Ética del Dato",
+    "pilar": "Estrategia del Dato > Cultura Data-Driven",
+    "descripcion": "El cemento que hace sostenible la estrategia del dato.",
+    "pregunta": "¿Qué grado de cooperación existe en el uso de datos entre ámbitos funcionales?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G4",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R200501",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R200502",
+        "texto": "Alto"
+      },
+      {
+        "id": "R200503",
+        "texto": "Medio"
+      },
+      {
+        "id": "R200504",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R200505",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P2101",
+    "dimension": "Paso 21 de 23 - Cultura Data-Driven",
+    "dimension_short": "Cultura Data-Driven",
+    "pilar": "Estrategia del Dato > Gestión de la demanda de Información",
+    "descripcion": "La demanda informacional responde a las necesidades estratégicas de la compañia sobre las base del valor aportado por cada iniciativa.",
+    "pregunta": "¿Cómo se priorizan las peticiones?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R210101",
+        "texto": "En función de un business case con ingresos, costes y mejora de datos de la organización (reusabilidad)"
+      },
+      {
+        "id": "R210102",
+        "texto": "En función del coste y ahorros. Beneficio esperado: cualitativo. Primeras fórmulas de cuantificación del valor"
+      },
+      {
+        "id": "R210103",
+        "texto": "Se prioriza en función del coste y ahorros, pero alineado con la estrategía"
+      },
+      {
+        "id": "R210104",
+        "texto": "Se prioriza en función del coste y los ahorros esperados, con la capacidad disponible"
+      },
+      {
+        "id": "R210105",
+        "texto": "No existe priorización. Ejecución por orden de entrada, capacidad diponible o por las áreas usuarias directamente"
+      }
+    ]
+  },
+  {
+    "id": "P2102",
+    "dimension": "Paso 21 de 23 - Cultura Data-Driven",
+    "dimension_short": "Cultura Data-Driven",
+    "pilar": "Estrategia del Dato > Gestión de la demanda de Información",
+    "descripcion": "La demanda informacional responde a las necesidades estratégicas de la compañia sobre las base del valor aportado por cada iniciativa.",
+    "pregunta": "¿Qué peticiones son objeto de la demanda de información?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R210201",
+        "texto": "Todos, informacionales, analíticos y operacionales"
+      },
+      {
+        "id": "R210202",
+        "texto": "Informacionales y analíticos"
+      },
+      {
+        "id": "R210203",
+        "texto": "Informacionales: autoconsumo (disponer de nueva información) y cuadros de mando"
+      },
+      {
+        "id": "R210204",
+        "texto": "Cuadros de mando"
+      },
+      {
+        "id": "R210205",
+        "texto": "Ninguna, las hacen las áreas usuarias"
+      }
+    ]
+  },
+  {
+    "id": "P2103",
+    "dimension": "Paso 21 de 23 - Cultura Data-Driven",
+    "dimension_short": "Cultura Data-Driven",
+    "pilar": "Estrategia del Dato > Gestión de la demanda de Información",
+    "descripcion": "La demanda informacional responde a las necesidades estratégicas de la compañia sobre las base del valor aportado por cada iniciativa.",
+    "pregunta": "¿Qué órganos regulan la demanda de información?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R210301",
+        "texto": "Existe un Comité donde están representados todos los intervinientes"
+      },
+      {
+        "id": "R210302",
+        "texto": "Existe un Comité donde están representados CDO, IT y algunas áreas usuarias"
+      },
+      {
+        "id": "R210303",
+        "texto": "Existe un Comité donde está representado CDO e IT"
+      },
+      {
+        "id": "R210304",
+        "texto": "Lo gestiona IT directamente"
+      },
+      {
+        "id": "R210305",
+        "texto": "Ninguna, la demanda es gestionada por las áreas usuarias"
+      }
+    ]
+  },
+  {
+    "id": "P2104",
+    "dimension": "Paso 21 de 23 - Cultura Data-Driven",
+    "dimension_short": "Cultura Data-Driven",
+    "pilar": "Estrategia del Dato > Gestión de la demanda de Información",
+    "descripcion": "La demanda informacional responde a las necesidades estratégicas de la compañia sobre las base del valor aportado por cada iniciativa.",
+    "pregunta": "¿Contamos con SLAs de plazo y calidad?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R210401",
+        "texto": "Existen SLAs de plazo y calidad, tanto de medición del servicio como del entregable"
+      },
+      {
+        "id": "R210402",
+        "texto": "Existen SLAs de plazo y mayoritariamente de calidad"
+      },
+      {
+        "id": "R210403",
+        "texto": "Existen SLAs de plazo y solo parcialmente de calidad"
+      },
+      {
+        "id": "R210404",
+        "texto": "Existen, pero únicamente de plazo, no de calidad"
+      },
+      {
+        "id": "R210405",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P2105",
+    "dimension": "Paso 21 de 23 - Cultura Data-Driven",
+    "dimension_short": "Cultura Data-Driven",
+    "pilar": "Estrategia del Dato > Gestión de la demanda de Información",
+    "descripcion": "La demanda informacional responde a las necesidades estratégicas de la compañia sobre las base del valor aportado por cada iniciativa.",
+    "pregunta": "¿Qué herramientas dan soporte al proceso?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G8b",
+      "G8c",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R210501",
+        "texto": "Herramienta de flujo ampliada que sigue los resultados futuros de la petición"
+      },
+      {
+        "id": "R210502",
+        "texto": "Herramienta de flujo con funciones limitadas"
+      },
+      {
+        "id": "R210503",
+        "texto": "Herramienta de petición, que sigue el flujo hasta la finalización"
+      },
+      {
+        "id": "R210504",
+        "texto": "No hay herramienta ad-hoc. Se gestiona a través de herramientas ofimáticas"
+      },
+      {
+        "id": "R210505",
+        "texto": "Ninguna, las hacen las áreas usuarias"
+      }
+    ]
+  },
+  {
+    "id": "P2201",
+    "dimension": "Paso 22 de 23 - Gestión del Cambio",
+    "dimension_short": "Gestión del Cambio",
+    "pilar": "Estrategia del Dato > Gestión del Cambio",
+    "descripcion": "No hay supervivencia sin adaptación, pero esta adaptación no se improvisa, requiere una estrategia de gestión del cambio.",
+    "pregunta": "¿Contamos con canales de comunicación para compartir las iniciativas de datos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R220101",
+        "texto": "Canales implantados para la comunicación y compartición (reusabilidad) de iniciativas de datos a todos los niveles"
+      },
+      {
+        "id": "R220102",
+        "texto": "Canales formales empleados por la mayoría de los ámbitos para comunicar, pero sin alta reusabilidad de iniciativas"
+      },
+      {
+        "id": "R220103",
+        "texto": "Existen canales formales pero empleados parcialmente por determinados ámbitos"
+      },
+      {
+        "id": "R220104",
+        "texto": "Existen canales informales y parciales para algunos ámbitos involucrados"
+      },
+      {
+        "id": "R220105",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P2202",
+    "dimension": "Paso 22 de 23 - Gestión del Cambio",
+    "dimension_short": "Gestión del Cambio",
+    "pilar": "Estrategia del Dato > Gestión del Cambio",
+    "descripcion": "No hay supervivencia sin adaptación, pero esta adaptación no se improvisa, requiere una estrategia de gestión del cambio.",
+    "pregunta": "¿Contamos con un plan de formación focalizado en la generación de una cultura del datos?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R220201",
+        "texto": "Existe un plan de formación global en cultura del dato focalizado en los puntos clave de la estrategia del dato"
+      },
+      {
+        "id": "R220202",
+        "texto": "Existen planes de formación en cultura de datos para gran número de ámbitos, sin conexión con la estrategia Data"
+      },
+      {
+        "id": "R220203",
+        "texto": "Existen planes departamentales de formación que posteriormente involucran a otras áreas una vez diseñados"
+      },
+      {
+        "id": "R220204",
+        "texto": "Existen acciones formativas aisladas relativas al mundo del dato"
+      },
+      {
+        "id": "R220205",
+        "texto": "No"
+      }
+    ]
+  },
+  {
+    "id": "P2203",
+    "dimension": "Paso 22 de 23 - Gestión del Cambio",
+    "dimension_short": "Gestión del Cambio",
+    "pilar": "Estrategia del Dato > Gestión del Cambio",
+    "descripcion": "No hay supervivencia sin adaptación, pero esta adaptación no se improvisa, requiere una estrategia de gestión del cambio.",
+    "pregunta": "¿Cómo es la cultura organizativa respecto a la adopción del cambio, en una escala entre Reactividad y Proactividad?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R220301",
+        "texto": "Muy proactiva"
+      },
+      {
+        "id": "R220302",
+        "texto": "Proactiva"
+      },
+      {
+        "id": "R220303",
+        "texto": "Media"
+      },
+      {
+        "id": "R220304",
+        "texto": "Reactiva"
+      },
+      {
+        "id": "R220305",
+        "texto": "Muy reactiva"
+      }
+    ]
+  },
+  {
+    "id": "P2204",
+    "dimension": "Paso 22 de 23 - Gestión del Cambio",
+    "dimension_short": "Gestión del Cambio",
+    "pilar": "Estrategia del Dato > Gestión del Cambio",
+    "descripcion": "No hay supervivencia sin adaptación, pero esta adaptación no se improvisa, requiere una estrategia de gestión del cambio.",
+    "pregunta": "¿Cómo es el grado de involucración de la alta dirección en la gestión del cambio?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R220401",
+        "texto": "Muy alto"
+      },
+      {
+        "id": "R220402",
+        "texto": "Alto"
+      },
+      {
+        "id": "R220403",
+        "texto": "Medio"
+      },
+      {
+        "id": "R220404",
+        "texto": "Bajo"
+      },
+      {
+        "id": "R220405",
+        "texto": "Muy bajo"
+      }
+    ]
+  },
+  {
+    "id": "P2205",
+    "dimension": "Paso 22 de 23 - Gestión del Cambio",
+    "dimension_short": "Gestión del Cambio",
+    "pilar": "Estrategia del Dato > Gestión del Cambio",
+    "descripcion": "No hay supervivencia sin adaptación, pero esta adaptación no se improvisa, requiere una estrategia de gestión del cambio.",
+    "pregunta": "¿Contamos con una monitorización de la adopción del cambio por parte de la Hortifrut?",
+    "grupos": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G6",
+      "G7a",
+      "G7b",
+      "G9"
+    ],
+    "opciones": [
+      {
+        "id": "R220501",
+        "texto": "Cuadro de Mando global (nivel de avance data-driven), alineado con la estrategia de transformación digital"
+      },
+      {
+        "id": "R220502",
+        "texto": "Existen KPIs, co-diseñados y comunicados siguiendo una estrategia de comunicación ad-hoc"
+      },
+      {
+        "id": "R220503",
+        "texto": "Existen KPIs parciales de medición de avance, sin un seguimiento y comunicación parcial"
+      },
+      {
+        "id": "R220504",
+        "texto": "Existen seguimientos subjetivos y parciales del avance en la adopción del cambio"
+      },
+      {
+        "id": "R220505",
+        "texto": "No existe"
+      }
+    ]
+  }
+]

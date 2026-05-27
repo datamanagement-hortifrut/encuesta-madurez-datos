@@ -1,0 +1,13 @@
+{
+  "G1_Alta_Direccion": "G1",
+  "G2_Directores_Gerentes": "G2",
+  "G3_Jefes_SubGerentes": "G3",
+  "G4_Datos_BI_Analytics": "G4",
+  "G5_TI_Tecnologia": "G5",
+  "G6_Creadores_Reportes": "G6",
+  "G7_Consumidores_Reportes": "G7a",
+  "G7_Consultados_Negocio": "G7b",
+  "G8b_Aprobadores_MDM": "G8b",
+  "G8c_Operadores_MDM": "G8c",
+  "G9_Data_Owners": "G9"
+}
