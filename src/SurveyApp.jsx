@@ -21,7 +21,11 @@ function buildDimensions(questions) {
   const map = new Map()
   questions.forEach(q => {
     if (!map.has(q.dimension))
-      map.set(q.dimension, { label: q.dimension_short, questions: [] })
+      map.set(q.dimension, {
+        label:    q.dimension_short,
+        label_en: q.dimension_short_en || q.dimension_short,
+        questions: []
+      })
     map.get(q.dimension).questions.push(q)
   })
   return Array.from(map.values())
@@ -44,20 +48,24 @@ function ProgressBar({ current, total, lang }) {
 }
 
 /* ── Question Card ── */
-function QuestionCard({ question, value, onChange }) {
+function QuestionCard({ question, value, onChange, lang }) {
+  const qText   = lang === 'en' && question.pregunta_en  ? question.pregunta_en  : question.pregunta
   return (
     <div className={`q-card ${value ? 'answered' : ''}`}>
       <div className="q-id">{question.id}</div>
-      <div className="q-text">{question.pregunta}</div>
+      <div className="q-text">{qText}</div>
       <div className="options">
-        {question.opciones.map(opt => (
-          <label key={opt.id} className={`opt-label ${value === opt.id ? 'active' : ''}`}>
-            <input type="radio" name={question.id} value={opt.id}
-              checked={value === opt.id}
-              onChange={() => onChange(question.id, opt.id)} />
-            <span className="opt-text">{opt.texto}</span>
-          </label>
-        ))}
+        {question.opciones.map(opt => {
+          const optText = lang === 'en' && opt.texto_en ? opt.texto_en : opt.texto
+          return (
+            <label key={opt.id} className={`opt-label ${value === opt.id ? 'active' : ''}`}>
+              <input type="radio" name={question.id} value={opt.id}
+                checked={value === opt.id}
+                onChange={() => onChange(question.id, opt.id)} />
+              <span className="opt-text">{optText}</span>
+            </label>
+          )
+        })}
       </div>
     </div>
   )
@@ -111,7 +119,7 @@ function StepSurvey({ lang, dimensions, isEdit, existingAnswers, onFinish, initi
       <ProgressBar current={answered} total={totalQ} lang={lang} />
       <div className="dim-header">
         <div className="dim-name">
-          {dimIndex + 1} {t(lang,'dimOf')} {dimensions.length} — {dim.label}
+          {dimIndex + 1} {t(lang,'dimOf')} {dimensions.length} — {lang === 'en' && dim.label_en ? dim.label_en : dim.label}
         </div>
         <div className="dim-desc">
           {dimAnsw} {t(lang,'dimOf')} {dim.questions.length} {t(lang,'dimAnswered')}
@@ -119,7 +127,7 @@ function StepSurvey({ lang, dimensions, isEdit, existingAnswers, onFinish, initi
       </div>
 
       {dim.questions.map(q => (
-        <QuestionCard key={q.id} question={q} value={answers[q.id]} onChange={handleChange} />
+        <QuestionCard key={q.id} question={q} value={answers[q.id]} onChange={handleChange} lang={lang} />
       ))}
 
       <div className="nav-row">
