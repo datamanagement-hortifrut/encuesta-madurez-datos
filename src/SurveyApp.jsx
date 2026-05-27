@@ -330,7 +330,7 @@ export default function SurveyApp({
 
       {step === 'survey' && (
         <StepSurvey
-          key={`${employee?.email}-${editDim}`}
+          key={`${employee?.email}-${editDim}-${lang}`}
           lang={lang}
           dimensions={DIMENSIONS}
           isEdit={isEdit}
