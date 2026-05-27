@@ -4,6 +4,7 @@
  */
 import { useState, useMemo, useCallback } from 'react'
 import { submitToSheet, getExistingAnswers } from './googleSheets.js'
+import HelpButton from './HelpButton.jsx'
 import { LangSelector } from './LoginScreen.jsx'
 import { t } from './i18n.js'
 
@@ -52,7 +53,10 @@ function QuestionCard({ question, value, onChange, lang }) {
   const qText   = lang === 'en' && question.pregunta_en  ? question.pregunta_en  : question.pregunta
   return (
     <div className={`q-card ${value ? 'answered' : ''}`}>
-      <div className="q-id">{question.id}</div>
+      <div className="q-id" style={{ display:'flex', alignItems:'center', gap:6 }}>
+        <span>{question.id}</span>
+        <HelpButton dimensionShort={question.dimension_short} lang={lang} />
+      </div>
       <div className="q-text">{qText}</div>
       <div className="options">
         {question.opciones.map(opt => {

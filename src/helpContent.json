@@ -1,0 +1,312 @@
+{
+  "Principios y visión de Gobierno": {
+    "es": {
+      "que_es": "El gobierno del dato define las reglas, roles y procesos para gestionar los datos como un activo estratégico de la empresa.",
+      "en_hf": "En Hortifrut, el gobierno del dato se materializa a través del Comité de Datos bi-mensual con todo el C-Level, donde se revisan avances e impacto al negocio. Las Células de Datos (RRHH, Operaciones, Genética, Filiales, Data Analytics y Transversal) son el brazo operativo que ejecuta esta visión, con BPOs responsables de priorizar requerimientos alineados a objetivos del área.",
+      "ejemplo": "Un ejemplo concreto: antes de que el área de Operaciones implemente un nuevo reporte, el BPO de la Célula de Operaciones prioriza el requerimiento según los objetivos del área y lo presenta en la reunión mensual con el C-Level de esa Célula.",
+      "tip": "Piensa en si los directivos de tu área conocen y aplican activamente las políticas de datos, o si las decisiones se toman sin considerar la calidad y disponibilidad de la información."
+    },
+    "en": {
+      "que_es": "Data governance defines the rules, roles and processes to manage data as a strategic corporate asset.",
+      "en_hf": "At Hortifrut, data governance is led through a bi-monthly Data Committee with all C-Level executives. Data Cells (HR, Operations, Genetics, Subsidiaries, Data Analytics and Transversal) are the operational arm, with Business Process Owners (BPOs) responsible for prioritizing requirements aligned with each area's goals.",
+      "ejemplo": "Example: before Operations launches a new report, the BPO of the Operations Cell prioritizes the requirement against area objectives and presents it at the monthly C-Level meeting.",
+      "tip": "Consider whether leaders in your area actively apply data policies, or if decisions are made without considering data quality and availability."
+    }
+  },
+  "Diccionario, glosario y metadatos": {
+    "es": {
+      "que_es": "Un catálogo y diccionario de datos establece definiciones únicas para cada término y activo de datos, evitando que diferentes áreas interpreten la misma métrica de forma distinta.",
+      "en_hf": "Hortifrut cuenta con Open Metadata como herramienta de catálogo de datos, donde están catalogadas todas las fuentes de datos y reportería de la compañía. Cada activo de dato tiene descripción de negocio y está indicado si está certificado por el Data Owner. Además, el agente BerryDrone permite a cualquier empleado consultar sobre los datos disponibles.",
+      "ejemplo": "Si en Comercial y en Producción usan definiciones distintas de 'tonelada cosechada', Open Metadata es el lugar donde se establece la definición oficial certificada por el Data Owner correspondiente.",
+      "tip": "¿Sabes dónde buscar la definición oficial de los indicadores que usas en tu área? ¿Usas Open Metadata para verificar si un dato está certificado antes de usarlo en un reporte?"
+    },
+    "en": {
+      "que_es": "A data catalog establishes unique definitions for each term and data asset, preventing different areas from interpreting the same metric differently.",
+      "en_hf": "Hortifrut uses Open Metadata as its data catalog, where all data sources and reports are cataloged, with business descriptions and Data Owner certification status. The BerryDrone agent allows any employee to query available data.",
+      "ejemplo": "If Commercial and Production use different definitions of 'harvested ton', Open Metadata is where the official definition certified by the relevant Data Owner is established.",
+      "tip": "Do you know where to find the official definition of the KPIs you use? Do you check Open Metadata to verify if a data asset is certified before using it in a report?"
+    }
+  },
+  "Gestión de Datos Maestros": {
+    "es": {
+      "que_es": "Los datos maestros son entidades críticas compartidas entre sistemas: proveedores, clientes, materiales, empleados. Su gestión centralizada evita duplicados, errores y inconsistencias.",
+      "en_hf": "Hortifrut gestiona datos maestros a través de dos plataformas: **Promenta** para Creación/Modificación de Productores, Proveedores y Empleados en SAP, con un workflow de aprobación antes de actualizar el dato. Para Clientes y Materiales se usa **EasyIT (Jira)** con formulario Excel para validación del equipo de Datos — con plan de migrar a Promenta en T2627.",
+      "ejemplo": "Cuando un área solicita crear un nuevo proveedor en SAP, la solicitud entra por Promenta, pasa por un flujo de revisión y aprobación antes de que el dato quede registrado. Esto evita duplicados y errores de tipeo.",
+      "tip": "¿Sabes cómo se solicita la creación o modificación de un dato maestro en tu área? ¿Conoces quién aprueba esas solicitudes?"
+    },
+    "en": {
+      "que_es": "Master data are critical entities shared across systems: suppliers, customers, materials, employees. Centralized management prevents duplicates, errors and inconsistencies.",
+      "en_hf": "Hortifrut manages master data through two platforms: **Promenta** for creating/modifying Producers, Suppliers and Employees in SAP, with an approval workflow before updating the data. For Customers and Materials, **EasyIT (Jira)** is used with an Excel form for Data team validation — with plans to migrate to Promenta in T2627.",
+      "ejemplo": "When an area requests creating a new supplier in SAP, the request goes through Promenta with a review and approval workflow before the data is registered, preventing duplicates and typos.",
+      "tip": "Do you know how to request master data creation or modification in your area? Do you know who approves those requests?"
+    },
+    "data_owners": [
+      "Comercial",
+      "Finanzas",
+      "Operaciones",
+      "Producción",
+      "RRHH",
+      "Genética"
+    ]
+  },
+  "Gestión de la demanda informacional": {
+    "es": {
+      "que_es": "Es el proceso para capturar, priorizar y atender las necesidades de información de las áreas de negocio de forma ordenada y eficiente.",
+      "en_hf": "En Hortifrut la demanda de datos se gestiona a través de las **Células de Datos**: cada Célula tiene un BPO (Business Process Owner), un Data Lead y un equipo de Data Engineers. El BPO es responsable de priorizar los requerimientos alineados con los objetivos del área. Hoy operan: Célula RRHH, Operaciones & Producción, Genética, Filiales (Trujillo y EMEA), Data Analytics y Transversal.",
+      "ejemplo": "Si el área de Finanzas necesita un nuevo reporte de costos, la solicitud entra a la Célula Transversal, el BPO la evalúa, estima el impacto económico y la prioriza en el backlog según su valor para el negocio.",
+      "tip": "¿Sabes a qué Célula de Datos pertenece tu área? ¿Conoces al BPO o Data Lead responsable de atender los requerimientos de información de tu área?"
+    },
+    "en": {
+      "que_es": "This is the process to capture, prioritize and fulfill information needs from business areas in an orderly and efficient way.",
+      "en_hf": "At Hortifrut, data demand is managed through **Data Cells**: each Cell has a BPO (Business Process Owner), a Data Lead and a team of Data Engineers. The BPO prioritizes requirements aligned with area objectives. Current cells: HR, Operations & Production, Genetics, Subsidiaries (Trujillo & EMEA), Data Analytics and Transversal.",
+      "ejemplo": "If Finance needs a new cost report, the request goes to the Transversal Cell, the BPO evaluates it, estimates the economic impact and prioritizes it in the backlog based on business value.",
+      "tip": "Do you know which Data Cell your area belongs to? Do you know the BPO or Data Lead responsible for your area's information requests?"
+    }
+  },
+  "Calidad del Dato": {
+    "es": {
+      "que_es": "La calidad del dato mide si los datos son precisos, completos, consistentes y oportunos para ser usados en decisiones de negocio.",
+      "en_hf": "Hortifrut ejecuta **calidad técnica** en el Datalake (validación de nulos, formatos y duplicados). Para **reglas de calidad de negocio**, se usa Open Metadata donde los Data Owners pueden registrar y evaluar sus reglas de calidad específicas de cada dominio. Cada Data Owner es responsable de certificar la calidad de los datos de su dominio.",
+      "ejemplo": "El Data Owner de Operaciones-Logística puede definir en Open Metadata que 'toda guía de despacho debe tener RUT de transportista válido' y configurar que se alerte cuando ese campo esté en blanco en el Datalake.",
+      "tip": "¿Conoces las reglas de calidad de los datos que usas en tu área? ¿Sabes quién es el Data Owner responsable de garantizar la calidad de esos datos?"
+    },
+    "en": {
+      "que_es": "Data quality measures whether data is accurate, complete, consistent and timely for use in business decisions.",
+      "en_hf": "Hortifrut runs **technical quality** checks in the Datalake (null validation, format and duplicate checks). For **business quality rules**, Open Metadata is used where Data Owners can register and evaluate domain-specific quality rules. Each Data Owner is responsible for certifying data quality in their domain.",
+      "ejemplo": "The Operations-Logistics Data Owner can define in Open Metadata that 'every dispatch guide must have a valid carrier RUT' and configure alerts when that field is blank in the Datalake.",
+      "tip": "Do you know the quality rules for the data you use in your area? Do you know who the Data Owner responsible for guaranteeing that data quality is?"
+    },
+    "data_owners": [
+      "Comercial",
+      "Finanzas",
+      "Operaciones",
+      "Producción",
+      "RRHH",
+      "Genética"
+    ]
+  },
+  "Arquitectura del Dato": {
+    "es": {
+      "que_es": "La arquitectura del dato define cómo se estructuran, almacenan, integran y fluyen los datos entre sistemas para que estén disponibles cuando se necesiten.",
+      "en_hf": "El núcleo de la arquitectura de datos en Hortifrut es el **Datalake corporativo**, que concentra los datos de toda la compañía para toma de decisiones y sirve como input/output para los modelos de Machine Learning. SAP BW fue migrado completamente al Datalake al ser considerado obsoleto. Los datos de SAP (ERP) alimentan el Datalake a través de procesos de integración.",
+      "ejemplo": "Cuando un usuario de Tableau visualiza un reporte de proyecciones agrícolas, los datos ya pasaron por el Datalake, donde fueron integrados desde SAP, validados en calidad y transformados para análisis.",
+      "tip": "¿Sabes de dónde vienen los datos que usas en tus reportes? ¿Conoces si esos datos pasan por el Datalake antes de llegar a Tableau?"
+    },
+    "en": {
+      "que_es": "Data architecture defines how data is structured, stored, integrated and flows between systems to be available when needed.",
+      "en_hf": "The core of Hortifrut's data architecture is the **corporate Datalake**, which consolidates company-wide data for decision-making and serves as input/output for Machine Learning models. SAP BW was fully migrated to the Datalake as it was considered obsolete. SAP (ERP) data feeds the Datalake through integration processes.",
+      "ejemplo": "When a Tableau user views an agricultural projections report, the data has already passed through the Datalake, where it was integrated from SAP, quality-validated and transformed for analysis.",
+      "tip": "Do you know where the data in your reports comes from? Do you know if that data passes through the Datalake before reaching Tableau?"
+    }
+  },
+  "Seguridad de la Información": {
+    "es": {
+      "que_es": "La seguridad de la información protege los datos de accesos no autorizados, pérdidas o modificaciones, garantizando su confidencialidad, integridad y disponibilidad.",
+      "en_hf": "En Hortifrut, el acceso a los datos en el Datalake y en Tableau está controlado por perfiles de usuario. Open Metadata registra qué activos de datos existen y quién es responsable (Data Owner) de cada uno, facilitando la gestión de accesos según roles y áreas.",
+      "ejemplo": "Los datos de nómina gestionados por la Célula RRHH solo son accesibles para usuarios con perfil autorizado. El Data Owner de RRHH (Nicolas Montivero) es responsable de certificar que esos datos estén correctamente protegidos.",
+      "tip": "¿Sabes quién tiene acceso a los datos sensibles de tu área? ¿Se revisan periódicamente los permisos de acceso cuando alguien cambia de rol o sale de la empresa?"
+    },
+    "en": {
+      "que_es": "Information security protects data from unauthorized access, loss or modification, ensuring confidentiality, integrity and availability.",
+      "en_hf": "At Hortifrut, access to data in the Datalake and Tableau is controlled by user profiles. Open Metadata records which data assets exist and who is responsible (Data Owner) for each one, facilitating access management by role and area.",
+      "ejemplo": "Payroll data managed by the HR Cell is only accessible to authorized user profiles. The HR Data Owner (Nicolas Montivero) is responsible for certifying that data is properly protected.",
+      "tip": "Do you know who has access to sensitive data in your area? Are access permissions periodically reviewed when someone changes roles or leaves the company?"
+    }
+  },
+  "El Rol del Chief Data Officer": {
+    "es": {
+      "que_es": "El CDO (Chief Data Officer) o equivalente es el líder organizacional responsable de la estrategia de datos, el gobierno y la cultura data-driven en la empresa.",
+      "en_hf": "En Hortifrut existe un área de **Data & Analytics** que actúa como CDO funcional. Esta área lidera las Células de Datos, organiza el Comité Bi-mensual de Datos con el C-Level, la Comunidad de Datos quincenal (con más de 180 participantes), la Academia de Datos y el News Mensual de Datos. El área tiene presupuesto y mandato transversal para transformar la organización en data-driven.",
+      "ejemplo": "El área de Data & Analytics convoca mensualmente a los C-Levels de cada Célula para revisar avances y cada dos meses presenta al C-Level completo el estado de la estrategia de datos y el impacto económico generado.",
+      "tip": "¿Conoces el área de Data & Analytics y su rol en Hortifrut? ¿Has participado en la Comunidad de Datos o recibido el News Mensual de Datos?"
+    },
+    "en": {
+      "que_es": "The CDO (Chief Data Officer) is the organizational leader responsible for data strategy, governance and data-driven culture in the company.",
+      "en_hf": "At Hortifrut, the **Data & Analytics** area acts as functional CDO. This area leads Data Cells, organizes the bi-monthly Data Committee with C-Level, the bi-weekly Data Community (with over 180 participants), the Data Academy and the Monthly Data Newsletter. The area has cross-functional budget and mandate to transform the organization into data-driven.",
+      "ejemplo": "The Data & Analytics area meets monthly with each Cell's C-Levels to review progress, and every two months presents the full C-Level with the state of the data strategy and economic impact generated.",
+      "tip": "Are you familiar with the Data & Analytics area and its role at Hortifrut? Have you participated in the Data Community or received the Monthly Data Newsletter?"
+    }
+  },
+  "Visualizaciones y experiencia de usuario": {
+    "es": {
+      "que_es": "Se refiere a cómo los datos se transforman en reportes y dashboards útiles, claros y accesibles para quienes toman decisiones.",
+      "en_hf": "**Tableau** es la herramienta corporativa de BI en Hortifrut para la creación de reportería. Los dashboards certificados por el Data Owner están registrados en Open Metadata. Existen perfiles de Tableau: Creator/Explorer (crean reportes) y Viewer (consumen reportes). La Academia de Datos ofrece formación en Tableau para distintos perfiles.",
+      "ejemplo": "Un Creator de Tableau en la Célula de Operaciones construye un dashboard de Torre de Control que pasa por revisión del Data Owner de Operaciones antes de ser certificado en Open Metadata y compartido a los Viewers del área.",
+      "tip": "¿Los reportes que usas en tu área son fáciles de interpretar? ¿Están certificados en Open Metadata por el Data Owner correspondiente?"
+    },
+    "en": {
+      "que_es": "This refers to how data is transformed into useful, clear and accessible reports and dashboards for decision-makers.",
+      "en_hf": "**Tableau** is Hortifrut's corporate BI tool for reporting. Data Owner-certified dashboards are registered in Open Metadata. Tableau profiles include Creator/Explorer (build reports) and Viewer (consume reports). The Data Academy offers Tableau training for different profiles.",
+      "ejemplo": "A Tableau Creator in the Operations Cell builds a Control Tower dashboard that goes through review by the Operations Data Owner before being certified in Open Metadata and shared with area Viewers.",
+      "tip": "Are the reports you use in your area easy to interpret? Are they certified in Open Metadata by the relevant Data Owner?"
+    }
+  },
+  "Reporting de gestión": {
+    "es": {
+      "que_es": "Son los reportes que soportan la toma de decisiones operativas y estratégicas: KPIs de área, seguimiento de metas, desempeño operacional.",
+      "en_hf": "En Hortifrut el reporting de gestión se realiza principalmente en **Tableau** con datos del Datalake. Las Células de Datos son responsables de desarrollar y mantener los reportes de gestión de sus áreas. El Comité Mensual con C-Levels de cada Célula es el principal espacio donde se consumen estos reportes para tomar decisiones.",
+      "ejemplo": "El reporte de avance de cosecha que se revisa en la reunión mensual de la Célula de Operaciones & Producción está construido en Tableau sobre datos del Datalake, certificado por el Data Owner de Producción.",
+      "tip": "¿Los reportes de gestión de tu área tienen una fuente única y confiable de datos? ¿Se actualizan automáticamente o dependen de procesos manuales?"
+    },
+    "en": {
+      "que_es": "These are reports that support operational and strategic decision-making: area KPIs, goal tracking, operational performance.",
+      "en_hf": "At Hortifrut, management reporting is primarily done in **Tableau** with Datalake data. Data Cells are responsible for developing and maintaining their areas' management reports. The Monthly Committee with each Cell's C-Levels is the main forum where these reports are consumed for decision-making.",
+      "ejemplo": "The harvest progress report reviewed at the monthly Operations & Production Cell meeting is built in Tableau on Datalake data, certified by the Production Data Owner.",
+      "tip": "Do your area's management reports have a single, reliable data source? Are they updated automatically or do they depend on manual processes?"
+    }
+  },
+  "Reporting regulatorio": {
+    "es": {
+      "que_es": "Son los reportes exigidos por organismos regulatorios, fiscales o legales de cada país donde opera la empresa.",
+      "en_hf": "Hortifrut opera en 14 países, por lo que el cumplimiento regulatorio de datos es especialmente relevante. Los Data Owners de Finanzas (Francisco Hernandez y Agustín Rodriguez) son los responsables de certificar las fuentes de datos que alimentan los reportes fiscales y regulatorios. El Datalake centraliza datos de todos los países, facilitando la generación de estos reportes.",
+      "ejemplo": "Los reportes de IMSS en México o las declaraciones de IVA en Chile son ejemplos de reportes regulatorios que deben generarse con datos precisos y auditables del Datalake.",
+      "tip": "¿Los reportes regulatorios de tu área se generan de forma automatizada o aún dependen de extracción manual de datos? ¿Existe un responsable claro de su exactitud?"
+    },
+    "en": {
+      "que_es": "These are reports required by regulatory, tax or legal bodies in each country where the company operates.",
+      "en_hf": "Hortifrut operates in 14 countries, making data regulatory compliance especially relevant. Finance Data Owners (Francisco Hernandez and Agustín Rodriguez) are responsible for certifying data sources that feed fiscal and regulatory reports. The Datalake centralizes data from all countries, facilitating these reports.",
+      "ejemplo": "IMSS reports in Mexico or VAT declarations in Chile are examples of regulatory reports that must be generated with accurate, auditable Datalake data.",
+      "tip": "Are your area's regulatory reports generated automatically or do they still depend on manual data extraction? Is there a clear owner responsible for their accuracy?"
+    }
+  },
+  "Autoconsumo y Data Discovery": {
+    "es": {
+      "que_es": "Es la capacidad de los usuarios de negocio para explorar y analizar datos por sí mismos, sin depender del equipo de datos para cada consulta.",
+      "en_hf": "En Hortifrut, el autoconsumo se habilita a través de **Tableau** (los perfiles Explorer/Creator pueden crear sus propios análisis) y del **Datalake** como fuente centralizada. **Open Metadata con BerryDrone** permite que cualquier empleado descubra qué datos existen y cómo acceder a ellos. La Academia de Datos capacita a los usuarios para aprovechar estas herramientas.",
+      "ejemplo": "Un analista de Comercial puede acceder a Tableau, explorar los datos certificados de su área y construir una vista personalizada de ventas por región sin necesidad de pedir ayuda al equipo de Data & Analytics.",
+      "tip": "¿Puedes explorar los datos de tu área de forma autónoma? ¿Sabes cómo usar BerryDrone para descubrir qué datos tienes disponibles en el Datalake?"
+    },
+    "en": {
+      "que_es": "This is the ability of business users to explore and analyze data independently, without depending on the data team for every query.",
+      "en_hf": "At Hortifrut, self-service is enabled through **Tableau** (Explorer/Creator profiles can build their own analyses) and the **Datalake** as centralized source. **Open Metadata with BerryDrone** allows any employee to discover what data exists and how to access it. The Data Academy trains users to leverage these tools.",
+      "ejemplo": "A Commercial analyst can access Tableau, explore certified data for their area and build a custom regional sales view without needing help from the Data & Analytics team.",
+      "tip": "Can you explore your area's data autonomously? Do you know how to use BerryDrone to discover what data is available in the Datalake?"
+    }
+  },
+  "Construcción y gestión de modelos": {
+    "es": {
+      "que_es": "Se refiere a los procesos para desarrollar, validar y documentar modelos analíticos y predictivos que apoyan decisiones de negocio.",
+      "en_hf": "El área de **Data & Analytics** de Hortifrut desarrolla modelos de Machine Learning usando el Datalake como fuente de datos. Las Células de Datos son el canal para que las áreas de negocio planteen casos de uso que justifiquen el desarrollo de un modelo. Cada caso de uso pasa por evaluación de impacto económico antes de priorizarse.",
+      "ejemplo": "La Célula de Operaciones & Producción puede plantear un modelo predictivo de rendimiento de cosecha. El BPO evalúa el impacto económico potencial, y si se aprueba, el equipo de Data & Analytics lo desarrolla usando datos del Datalake.",
+      "tip": "¿Tu área tiene casos de uso donde un modelo predictivo podría generar valor? ¿Los has comunicado a tu BPO o a la Célula de Datos correspondiente?"
+    },
+    "en": {
+      "que_es": "This refers to processes for developing, validating and documenting analytical and predictive models that support business decisions.",
+      "en_hf": "Hortifrut's **Data & Analytics** area develops Machine Learning models using the Datalake as data source. Data Cells are the channel for business areas to propose use cases justifying model development. Each use case goes through economic impact evaluation before being prioritized.",
+      "ejemplo": "The Operations & Production Cell can propose a predictive harvest yield model. The BPO evaluates the potential economic impact, and if approved, the Data & Analytics team develops it using Datalake data.",
+      "tip": "Does your area have use cases where a predictive model could generate value? Have you communicated them to your BPO or the relevant Data Cell?"
+    }
+  },
+  "Industrialización de modelos": {
+    "es": {
+      "que_es": "Es el proceso de llevar un modelo analítico del ambiente de desarrollo a producción, de forma automatizada, monitoreada y escalable.",
+      "en_hf": "En Hortifrut, los modelos de Machine Learning desarrollados por Data & Analytics se despliegan usando el **Datalake** como plataforma, donde los modelos toman datos como input y generan outputs que alimentan reportes en Tableau o sistemas operacionales. La Célula de Data Analytics lidera la industrialización y monitoreo continuo de los modelos en producción.",
+      "ejemplo": "Un modelo de predicción de demanda de agua para riego, desarrollado por Data & Analytics, se industrializa de modo que cada noche procesa datos del Datalake y genera alertas automáticas en el sistema de riego.",
+      "tip": "¿Conoces algún modelo de Machine Learning que esté operando en producción en Hortifrut? ¿Sabes si los resultados de ese modelo se monitorean regularmente?"
+    },
+    "en": {
+      "que_es": "This is the process of moving an analytical model from development to production in an automated, monitored and scalable way.",
+      "en_hf": "At Hortifrut, Machine Learning models developed by Data & Analytics are deployed using the **Datalake** as platform, where models take data as input and generate outputs that feed Tableau reports or operational systems. The Data Analytics Cell leads industrialization and continuous monitoring of production models.",
+      "ejemplo": "A water demand prediction model for irrigation, developed by Data & Analytics, is industrialized so that it processes Datalake data every night and generates automatic alerts in the irrigation system.",
+      "tip": "Do you know of any Machine Learning model currently operating in production at Hortifrut? Do you know if that model's results are regularly monitored?"
+    }
+  },
+  "Diseño de la Estrategia del Dato": {
+    "es": {
+      "que_es": "Es la hoja de ruta que define cómo la empresa usará los datos para alcanzar sus objetivos de negocio a largo plazo.",
+      "en_hf": "La estrategia de datos de Hortifrut se articula en torno a 4 pilares: Gobierno del Dato, Consumo de Información, Analítica Avanzada y Estrategia del Dato. Se reporta bimensualmente al C-Level completo en el Comité de Datos. Las Células de Datos son el mecanismo de ejecución de esa estrategia en cada área de negocio.",
+      "ejemplo": "La decisión de migrar SAP BW al Datalake fue parte de la estrategia de datos: consolidar todas las fuentes en una sola plataforma moderna para habilitar analítica avanzada y reducir dependencia de herramientas obsoletas.",
+      "tip": "¿Conoces cuáles son los objetivos estratégicos de datos de Hortifrut para este año? ¿Tu área tiene iniciativas de datos alineadas a esos objetivos?"
+    },
+    "en": {
+      "que_es": "This is the roadmap defining how the company will use data to achieve its long-term business objectives.",
+      "en_hf": "Hortifrut's data strategy is organized around 4 pillars: Data Governance, Information Consumption, Advanced Analytics and Data Strategy. It is reported bi-monthly to the full C-Level at the Data Committee. Data Cells are the execution mechanism of that strategy in each business area.",
+      "ejemplo": "The decision to migrate SAP BW to the Datalake was part of the data strategy: consolidating all sources into a single modern platform to enable advanced analytics and reduce dependency on obsolete tools.",
+      "tip": "Do you know Hortifrut's strategic data objectives for this year? Does your area have data initiatives aligned with those objectives?"
+    }
+  },
+  "Privacidad": {
+    "es": {
+      "que_es": "La privacidad de datos garantiza que la información personal de empleados, clientes y terceros sea tratada conforme a las regulaciones legales de cada país.",
+      "en_hf": "Hortifrut opera en 14 países con distintas regulaciones de privacidad (GDPR en Europa, leyes locales en Chile, México, Perú, etc.). Los datos de empleados son gestionados por la Célula de RRHH con controles en Promenta. El Data Owner de RRHH (Nicolas Montivero) es responsable de certificar que los datos de compensaciones y nómina cumplan los estándares de privacidad.",
+      "ejemplo": "Los datos de nómina de los 1.118 participantes de esta encuesta son datos personales protegidos. Su tratamiento debe cumplir la legislación de cada país y estar documentado en Open Metadata.",
+      "tip": "¿Tu área trata datos personales de empleados, clientes o proveedores? ¿Conoces las regulaciones de privacidad aplicables en los países donde operas?"
+    },
+    "en": {
+      "que_es": "Data privacy ensures that personal information of employees, customers and third parties is handled in accordance with legal regulations in each country.",
+      "en_hf": "Hortifrut operates in 14 countries with different privacy regulations (GDPR in Europe, local laws in Chile, Mexico, Peru, etc.). Employee data is managed by the HR Cell with controls in Promenta. The HR Data Owner (Nicolas Montivero) is responsible for certifying that compensation and payroll data meets privacy standards.",
+      "ejemplo": "The payroll data of the 1,118 survey participants is protected personal data. Its processing must comply with each country's legislation and be documented in Open Metadata.",
+      "tip": "Does your area process personal data of employees, customers or suppliers? Do you know the applicable privacy regulations in the countries where you operate?"
+    }
+  },
+  "Modelos de Valoración del Dato": {
+    "es": {
+      "que_es": "Son metodologías para cuantificar el valor económico de los datos como activo de la empresa, ayudando a priorizar inversiones en datos.",
+      "en_hf": "En Hortifrut, cada Célula de Datos evalúa el impacto económico de sus casos de negocio antes de priorizarlos. Se realizan reuniones mensuales con los C-Levels de cada Célula para revisar los avances y el valor generado. El Comité Bi-mensual de Datos con todo el C-Level transparenta el impacto económico acumulado de las iniciativas de datos.",
+      "ejemplo": "Antes de desarrollar un modelo predictivo de cosecha, la Célula de Operaciones calcula el ahorro potencial en mermas o el incremento de productividad esperado. Ese número justifica la inversión de tiempo del equipo de Data & Analytics.",
+      "tip": "¿En tu área se mide el impacto económico de las iniciativas de datos? ¿Se comunican esos resultados al C-Level?"
+    },
+    "en": {
+      "que_es": "These are methodologies for quantifying the economic value of data as a company asset, helping prioritize data investments.",
+      "en_hf": "At Hortifrut, each Data Cell evaluates the economic impact of its business cases before prioritizing them. Monthly meetings with each Cell's C-Levels review progress and value generated. The bi-monthly Data Committee with the full C-Level reports the cumulative economic impact of data initiatives.",
+      "ejemplo": "Before developing a harvest prediction model, the Operations Cell calculates the potential savings in losses or the expected productivity increase. That number justifies the Data & Analytics team's investment of time.",
+      "tip": "Does your area measure the economic impact of data initiatives? Are those results communicated to the C-Level?"
+    }
+  },
+  "Monetización del Dato": {
+    "es": {
+      "que_es": "Es la capacidad de generar valor económico directo o indirecto a partir de los datos, ya sea mejorando procesos, productos o generando nuevas fuentes de ingreso.",
+      "en_hf": "En Hortifrut, la monetización del dato se da principalmente de forma indirecta: mejorando la eficiencia operacional (modelos de predicción de cosecha, riego optimizado), reduciendo mermas y apoyando decisiones comerciales. Las Células de Datos son el mecanismo para identificar y cuantificar esos casos de valor.",
+      "ejemplo": "Un modelo de Machine Learning que predice con 2 semanas de anticipación el volumen de cosecha permite optimizar la contratación de personal temporal y la logística, generando ahorro directo de costos.",
+      "tip": "¿Tu área puede identificar decisiones que se toman hoy de forma intuitiva y que podrían mejorarse con datos? Esos son potenciales casos de monetización."
+    },
+    "en": {
+      "que_es": "This is the ability to generate direct or indirect economic value from data, by improving processes, products or generating new revenue streams.",
+      "en_hf": "At Hortifrut, data monetization occurs primarily indirectly: improving operational efficiency (harvest prediction models, optimized irrigation), reducing losses and supporting commercial decisions. Data Cells are the mechanism to identify and quantify these value cases.",
+      "ejemplo": "A Machine Learning model that predicts harvest volume 2 weeks in advance allows optimizing temporary staff hiring and logistics, generating direct cost savings.",
+      "tip": "Can your area identify decisions currently made intuitively that could be improved with data? Those are potential monetization cases."
+    }
+  },
+  "Ética del Dato": {
+    "es": {
+      "que_es": "La ética del dato establece principios para el uso responsable, justo y transparente de los datos y algoritmos, especialmente cuando afectan a personas.",
+      "en_hf": "En Hortifrut, el tratamiento ético de datos es especialmente relevante dado que se manejan datos de miles de empleados temporales (cosecha) y datos productivos de agricultores y productores. Las decisiones basadas en modelos de Machine Learning que puedan afectar condiciones laborales o contratos deben ser transparentes y auditables.",
+      "ejemplo": "Si se usa un modelo para predecir qué empleados temporales se volverán a contratar, ese modelo debe ser auditado para detectar sesgos (por ejemplo, discriminación indirecta por zona geográfica) antes de usarse en decisiones reales.",
+      "tip": "¿Tu área usa algoritmos o modelos que toman decisiones que afectan a personas? ¿Existe un proceso de revisión ética antes de implementarlos?"
+    },
+    "en": {
+      "que_es": "Data ethics establishes principles for responsible, fair and transparent use of data and algorithms, especially when they affect people.",
+      "en_hf": "At Hortifrut, ethical data treatment is especially relevant as data from thousands of seasonal employees (harvest) and productive data from farmers and producers is managed. Machine Learning model-based decisions that may affect employment conditions or contracts must be transparent and auditable.",
+      "ejemplo": "If a model is used to predict which seasonal employees will be rehired, that model must be audited for bias (e.g., indirect discrimination by geographic area) before being used in real decisions.",
+      "tip": "Does your area use algorithms or models that make decisions affecting people? Is there an ethical review process before implementing them?"
+    }
+  },
+  "Cultura Data-Driven": {
+    "es": {
+      "que_es": "Una cultura data-driven significa que las personas y equipos toman decisiones basadas en datos antes que en intuición, y que toda la organización valora los datos como activo estratégico.",
+      "en_hf": "Hortifrut impulsa la cultura de datos a través de múltiples iniciativas: **Comunidad de Datos quincenal** (más de 180 empleados participantes), **Academia de Datos** con cursos para distintos perfiles, **News Mensual de Datos** para comunicar avances a toda la organización, y **reconocimientos** a empleados que destacan en valores de datos. El liderazgo visible del C-Level en el Comité Bi-mensual refuerza esta cultura.",
+      "ejemplo": "El News Mensual de Datos no solo comunica avances técnicos, sino que reconoce a empleados de distintas áreas que usaron datos para mejorar su trabajo, generando referentes culturales en toda la organización.",
+      "tip": "¿Tú y tu equipo buscan datos antes de tomar decisiones importantes? ¿Participas en la Comunidad de Datos o en la Academia de Datos de Hortifrut?"
+    },
+    "en": {
+      "que_es": "A data-driven culture means people and teams make data-based decisions rather than intuition, and the entire organization values data as a strategic asset.",
+      "en_hf": "Hortifrut drives data culture through multiple initiatives: **bi-weekly Data Community** (over 180 employee participants), **Data Academy** with courses for different profiles, **Monthly Data Newsletter** to communicate progress to the entire organization, and **employee recognition** for data value achievements. Visible C-Level leadership at the bi-monthly Committee reinforces this culture.",
+      "ejemplo": "The Monthly Data Newsletter not only communicates technical progress, but also recognizes employees from different areas who used data to improve their work, creating cultural role models across the organization.",
+      "tip": "Do you and your team seek data before making important decisions? Do you participate in the Data Community or Data Academy at Hortifrut?"
+    }
+  },
+  "Gestión del Cambio": {
+    "es": {
+      "que_es": "La gestión del cambio en datos se refiere a los procesos para que las personas adopten nuevas herramientas, procesos y comportamientos relacionados con datos.",
+      "en_hf": "Hortifrut gestiona el cambio en datos a través de sus Células de Datos, donde el BPO actúa como agente de cambio en su área. La comunicación a través del **News Mensual**, la **Comunidad de Datos** y la **Academia de Datos** son mecanismos de adopción. La migración de SAP BW al Datalake y la implementación de Promenta para datos maestros son ejemplos de cambios gestionados activamente.",
+      "ejemplo": "Cuando se implementó Promenta para la gestión de datos maestros de proveedores, el equipo de Data & Analytics realizó capacitaciones, comunicó los beneficios y apoyó a las áreas durante la transición para asegurar la adopción.",
+      "tip": "¿Cómo reacciona tu área cuando se implementa un nuevo proceso o herramienta de datos? ¿El cambio se gestiona con comunicación, capacitación y seguimiento?"
+    },
+    "en": {
+      "que_es": "Data change management refers to processes for people to adopt new data-related tools, processes and behaviors.",
+      "en_hf": "Hortifrut manages data change through Data Cells, where the BPO acts as a change agent in their area. Communication through the **Monthly Newsletter**, **Data Community** and **Data Academy** are adoption mechanisms. The SAP BW to Datalake migration and Promenta implementation for master data are examples of actively managed changes.",
+      "ejemplo": "When Promenta was implemented for supplier master data management, the Data & Analytics team conducted training, communicated benefits and supported areas during the transition to ensure adoption.",
+      "tip": "How does your area react when a new data process or tool is implemented? Is change managed with communication, training and follow-up?"
+    }
+  }
+}

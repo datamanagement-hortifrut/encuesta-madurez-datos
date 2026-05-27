@@ -62,12 +62,12 @@
     "opciones": [
       {
         "id": "R020201",
-        "texto": "Aprobada por Alta Dirección con sistema de seguimiento centralizado de su cumplimiento",
+        "texto": "Aprobada el C-Level con sistema de seguimiento centralizado de su cumplimiento",
         "texto_en": "Principles fully defined, communicated and actively applied across the organization"
       },
       {
         "id": "R020202",
-        "texto": "Aprobado por la Alta Dirección pero no existe un seguimiento periódico del grado de cumplimiento",
+        "texto": "Aprobado por el C-Level pero no existe un seguimiento periódico del grado de cumplimiento",
         "texto_en": "Principles defined and documented, with widespread but not universal adoption"
       },
       {
@@ -729,7 +729,7 @@
     "opciones": [
       {
         "id": "R050101",
-        "texto": "Muy alto, la calidad de los datos es un objetivo cuantificado y seguido por la Alta Dirección",
+        "texto": "Muy alto, la calidad de los datos es un objetivo cuantificado y seguido por el C-Level",
         "texto_en": "Formal process with defined channels, clear prioritization and tracked resolution of requests"
       },
       {
@@ -876,7 +876,7 @@
     "opciones": [
       {
         "id": "R050401",
-        "texto": "Existen políticas aprobadas a máximo nivel. Cumplimiento con objetivos concretos seguido por alta dirección",
+        "texto": "Existen políticas aprobadas a máximo nivel. Cumplimiento con objetivos concretos seguido por el C-Level",
         "texto_en": "Business areas actively co-design their information needs with the data team"
       },
       {
@@ -3895,7 +3895,7 @@
       },
       {
         "id": "R180502",
-        "texto": "Existe una estrategia del dato global y es liderada por un Directivo de Alta Dirección",
+        "texto": "Existe una estrategia del dato global y es liderada por un Directivo del C-Level",
         "texto_en": "Main critical assets identified with protection processes"
       },
       {
@@ -4310,22 +4310,22 @@
     "opciones": [
       {
         "id": "R200401",
-        "texto": "La Alta Dirección establece la estrategia global y transversal para una cultura del dato y monitoriza su evolución",
+        "texto": "El C-Level establece la estrategia global y transversal para una cultura del dato y monitoriza su evolución",
         "texto_en": "Formal processes for bias detection and mitigation, with regular audits and documented corrections"
       },
       {
         "id": "R200402",
-        "texto": "La Alta Dirección establece planes de formación, comunicación y talento con seguimiento de avances de cada ámbito",
+        "texto": "El C-Level establece planes de formación, comunicación y talento con seguimiento de avances de cada ámbito",
         "texto_en": "Processes for main models with regular bias evaluation"
       },
       {
         "id": "R200403",
-        "texto": "La Alta Dirección establece planes de formación en data y realiza seguimiento de avances individuales por ámbito",
+        "texto": "El C-Level establece planes de formación en data y realiza seguimiento de avances individuales por ámbito",
         "texto_en": "Some detection without systematic mitigation"
       },
       {
         "id": "R200404",
-        "texto": "La Alta Dirección fomenta el uso de los datos en cada unidad, sin una estrategia común",
+        "texto": "El C-Level fomenta el uso de los datos en cada unidad, sin una estrategia común",
         "texto_en": "Informal consideration in some cases"
       },
       {
@@ -4792,7 +4792,7 @@
     "dimension_short": "Gestión del Cambio",
     "pilar": "Estrategia del Dato > Gestión del Cambio",
     "descripcion": "No hay supervivencia sin adaptación, pero esta adaptación no se improvisa, requiere una estrategia de gestión del cambio.",
-    "pregunta": "¿Cómo es el grado de involucración de la alta dirección en la gestión del cambio?",
+    "pregunta": "¿Cómo es el grado de involucración del C-Level en la gestión del cambio?",
     "grupos": [
       "G1",
       "G2",
