@@ -1,10 +1,11 @@
+import React, { useState, createContext, useContext } from 'react'
 /**
  * AppRouter.jsx — Sin SSO.
  * Flujo: el empleado ingresa su email → se detecta su grupo
  * → responde directamente la encuesta de su grupo.
  * Un solo link para los 11 grupos.
  */
-import { useState, createContext, useContext } from 'react'
+
 import { resolveGroup }     from './groupResolver.js'
 import { getExistingAnswers } from './googleSheets.js'
 import { LoginEmail, NotFoundScreen, LoadingScreen } from './LoginScreen.jsx'
@@ -17,6 +18,12 @@ export const useLang = () => useContext(LangContext)
 
 export default function AppRouter() {
   const [lang,     setLang]    = useState(detectLang)
+
+  // RTL para árabe
+  React.useEffect(() => {
+    document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr'
+    document.documentElement.lang = lang
+  }, [lang])
   const [screen,   setScreen]  = useState('login')   // login | loading | notfound | survey
   const [email,    setEmail]   = useState('')
   const [error,    setError]   = useState(null)
