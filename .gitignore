@@ -4,3 +4,14 @@ dist/
 .env.local
 .DS_Store
 *.log
+src/data/employees_g1.json 
+src/data/employees_g2.json 
+src/data/employees_g3.json 
+src/data/employees_g4.json 
+src/data/employees_g5.json 
+src/data/employees_g6.json 
+src/data/employees_g7a.json 
+src/data/employees_g7b.json 
+src/data/employees_g8b.json 
+src/data/employees_g8c.json 
+src/data/employees_g9.json 
